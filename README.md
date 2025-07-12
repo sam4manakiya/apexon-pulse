@@ -1,8 +1,10 @@
 Apexon Pulse: AI-Driven Employee Analytics
+
 Apexon Pulse is a powerful, AI-driven HR analytics application built with Streamlit, designed to provide comprehensive insights into employee data and automate analytical workflows for proactive strategic decision-making within our organization.
 
 
 Table of Contents
+
 Features
 
 Technologies Used
