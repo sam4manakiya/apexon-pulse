@@ -1,0 +1,75 @@
+# bitbucket-pipelines.yml
+# This is a basic CI/CD pipeline configuration for Bitbucket Pipelines.
+# It defines steps to build, test, and deploy your application.
+
+# You can use a Docker image for your build environment.
+# Here, we're using a Python image.
+image: python:3.9.18-slim-bullseye
+
+# Define the pipeline steps.
+pipelines:
+  default: # This pipeline runs on every push to any branch
+    - step:
+        name: Install Dependencies
+        caches:
+          - pip # Cache pip dependencies to speed up builds
+        script:
+          - pip install pipenv # Or pip install -r requirements.txt if not using pipenv
+          - pipenv install --dev --skip-lock # Install dependencies from Pipfile.lock
+          # If you are using requirements.txt directly, uncomment the line below:
+          # - pip install -r requirements.txt
+        artifacts:
+          - "**/*" # Keep all files for subsequent steps
+
+    - step:
+        name: Run Tests
+        script:
+          - pipenv run pytest # Run your tests (assuming pytest is installed and configured)
+          # Add any other test commands here, e.g., linting, static analysis
+          # - pipenv run flake8 .
+          # - pipenv run mypy .
+
+    - step:
+        name: Build and Package (Optional)
+        # This step is for building artifacts if your project requires it (e.g., frontend build)
+        # For a simple Python app, this might not be strictly necessary.
+        script:
+          - echo "Building application artifacts..."
+          # Add commands to build your application, e.g.,
+          # - npm install
+          # - npm run build
+        artifacts:
+          - "build/**" # Example: collect build output
+
+  branches:
+    main: # This pipeline runs only on pushes to the 'main' branch
+      - step:
+          name: Install Dependencies (Main Branch)
+          caches:
+            - pip
+          script:
+            - pip install pipenv
+            - pipenv install --dev --skip-lock
+          artifacts:
+            - "**/*"
+
+      - step:
+          name: Run Tests (Main Branch)
+          script:
+            - pipenv run pytest
+
+      - step:
+          name: Deploy to Production
+          deployment: production # Mark this step as a production deployment
+          trigger: manual # This step will require manual approval to run
+          script:
+            - echo "Deploying to production environment..."
+            # Add your deployment commands here. This will vary greatly based on your hosting.
+            # Examples:
+            # - rsync -avz . user@your-server:/var/www/html
+            # - aws s3 sync . s3://your-bucket-name
+            # - docker build -t your-app .
+            # - docker push your-registry/your-app:latest
+            # - kubectl apply -f kubernetes/deployment.yaml
+            - echo "Deployment complete!"
+

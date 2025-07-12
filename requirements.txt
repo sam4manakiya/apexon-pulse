@@ -1,0 +1,20 @@
+# requirements.txt
+# List your Python project dependencies here.
+# You can specify exact versions or minimum versions.
+
+# Example dependencies:
+Flask==2.3.3
+requests>=2.31.0
+numpy~=1.26.0
+pandas
+pytest
+gunicorn # For production web server
+
+# Add other dependencies as needed for your project
+# e.g.,
+# Django==4.2.7
+# SQLAlchemy
+# psycopg2-binary
+# scikit-learn
+# tensorflow
+# pytorch

@@ -1,0 +1,106 @@
+# .gitignore
+
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bin/
+lib/
+include/
+share/
+local/
+build/
+dist/
+*.egg
+*.whl
+
+# C / C++
+*.o
+*.a
+*.so
+*.lo
+*.la
+*.dll
+*.lib
+*.dylib
+*.obj
+*.exe
+*.out
+*.app
+*.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.sqlite3
+*.csv # If you want to ignore all CSV files, otherwise remove this line
+*.json # If you want to ignore all JSON files, otherwise remove this line
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Configuration files (often sensitive or local-specific)
+.env
+.env.*
+config.ini
+config.local.ini
+*.pem
+*.key
+*.crt
+
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Docker
+Dockerfile.bak
+*.dockerignore
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other common ignored files
+*.zip
+*.tar.gz
+*.rar
+*.7z
