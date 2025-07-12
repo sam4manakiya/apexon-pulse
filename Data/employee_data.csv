@@ -1,101 +1,101 @@
 EmployeeID,Name,Department,Role,HireDate,Salary,PerformanceRating,EngagementScore,Attrition,Gender,TenureYears
-21,Eve Hernandez,Marketing,Value_7,2016-01-12,69691,39,1,95,Value_2,61
-36,Tina Hall,Customer Service,Value_6,2017-09-09,64169,82,10,28,Value_1,95
-81,Zack Wright,Marketing,Value_8,2015-09-23,51257,53,74,62,Value_7,24
-50,Grace Williams,Customer Service,Value_3,2022-03-08,100467,72,67,47,Value_1,99
-86,Ethan Anderson,Operations,Value_9,2023-04-15,65167,21,68,8,Value_9,40
-77,Ethan Jones,HR,Value_3,2022-04-27,91913,46,16,57,Value_4,80
-96,Rachel Martinez,HR,Value_4,2022-10-21,89958,27,14,54,Value_9,94
-92,Heidi Garcia,Engineering,Value_5,2015-02-12,100418,22,34,83,Value_2,36
-40,Victor Wilson,IT,Value_9,2023-05-03,88118,6,10,10,Value_5,31
-60,Victor Anderson,Operations,Value_1,2023-09-20,80571,56,37,64,Value_7,56
-65,Wendy Jones,Finance,Value_4,2019-05-18,31677,95,18,15,Value_8,12
-31,Tina White,Operations,Value_3,2020-02-03,44968,69,43,34,Value_8,61
-9,Wendy Taylor,Finance,Value_1,2020-10-07,71182,54,82,90,Value_9,83
-83,Kevin Wilson,IT,Value_4,2020-10-14,77944,4,53,15,Value_8,76
-40,Rachel Thompson,Sales,Value_2,2019-09-12,40315,79,26,24,Value_9,73
-27,Victor Thompson,Operations,Value_7,2019-09-01,56092,14,34,23,Value_8,53
-39,Nancy Allen,Customer Service,Value_6,2022-01-17,89012,26,85,74,Value_8,71
-10,Diana Williams,Marketing,Value_5,2024-03-01,76326,76,42,65,Value_6,44
-1,Kevin Taylor,IT,Value_2,2015-04-15,106989,87,66,15,Value_3,92
-20,Nancy King,HR,Value_3,2019-06-22,48829,6,73,14,Value_9,81
-11,Tina Thompson,Sales,Value_3,2022-04-18,57206,98,63,7,Value_3,67
-85,Zack Harris,HR,Value_7,2024-10-13,82152,89,52,6,Value_8,87
-65,Pamela Clark,Finance,Value_3,2020-02-14,81192,18,80,52,Value_5,15
-68,Ivan Moore,Operations,Value_2,2024-11-21,87704,10,73,96,Value_3,14
-76,Judy King,Operations,Value_3,2020-09-07,79908,16,66,54,Value_8,7
-68,Pamela Hernandez,IT,Value_5,2018-04-02,57484,1,68,68,Value_4,14
-46,Uma Jackson,Finance,Value_8,2020-09-12,69095,43,1,65,Value_7,94
-73,Xavier Wilson,IT,Value_4,2018-12-01,86421,1,19,48,Value_4,35
-82,Zack Robinson,Engineering,Value_1,2022-07-15,43338,31,65,27,Value_4,62
-53,Alice Jones,IT,Value_5,2019-07-08,42398,16,20,47,Value_4,77
-70,Ethan Robinson,Marketing,Value_3,2021-09-29,79354,59,73,14,Value_8,24
-40,Charlie Miller,Operations,Value_7,2015-02-19,74227,44,28,20,Value_2,88
-69,Sophia Thomas,Finance,Value_9,2020-06-21,67876,37,30,47,Value_8,85
-62,Quinn Harris,HR,Value_7,2019-06-30,60728,35,69,15,Value_4,99
-95,Charlie Harris,Marketing,Value_4,2019-05-14,78911,92,69,73,Value_2,97
-33,Kevin Lopez,Finance,Value_7,2015-06-29,70841,62,65,87,Value_3,14
-11,Steve Martin,IT,Value_8,2020-02-05,74986,95,72,76,Value_7,92
-84,Daniel King,HR,Value_8,2017-07-08,96107,4,90,1,Value_1,21
-94,Quinn Anderson,Customer Service,Value_9,2022-06-08,38336,56,93,19,Value_8,11
-39,Rachel Miller,HR,Value_8,2015-06-07,95800,22,48,28,Value_6,68
-22,Pamela White,Customer Service,Value_4,2016-02-27,100355,1,50,12,Value_3,89
-30,Frank Davis,Finance,Value_1,2021-04-27,60543,42,93,38,Value_3,54
-75,Grace Martinez,IT,Value_4,2024-03-12,40942,42,38,63,Value_1,16
-84,Victor Robinson,HR,Value_6,2018-05-13,121613,98,91,20,Value_2,67
-15,Linda Jackson,Operations,Value_2,2023-01-05,87754,26,49,89,Value_8,13
-91,Nancy Moore,Operations,Value_5,2018-01-22,63015,13,7,69,Value_6,84
-51,Daniel Lee,Operations,Value_1,2017-07-08,43929,8,11,7,Value_6,4
-80,Linda Jackson,Sales,Value_9,2019-11-01,100268,14,11,99,Value_1,67
-37,Eve Lewis,Customer Service,Value_2,2017-04-10,70859,20,13,7,Value_4,46
-95,Heidi Thompson,Customer Service,Value_1,2018-12-30,66894,44,2,16,Value_3,24
-33,Zack Williams,Sales,Value_6,2018-11-17,80515,63,57,48,Value_1,49
-24,Ethan Martin,Sales,Value_6,2018-10-09,66001,63,90,86,Value_7,90
-70,Judy Jackson,IT,Value_3,2019-01-09,53222,6,81,98,Value_8,15
-96,Alice Hernandez,Finance,Value_9,2017-04-12,73137,99,91,77,Value_5,3
-70,Ivan Jones,Customer Service,Value_1,2015-04-18,55144,98,70,68,Value_9,3
-69,Rachel Brown,Finance,Value_3,2024-07-08,74299,29,12,75,Value_3,38
-1,Judy Anderson,IT,Value_7,2023-08-07,83674,6,42,11,Value_8,95
-9,Alice Wright,Marketing,Value_8,2015-10-07,95327,97,92,14,Value_4,98
-53,Victor Martinez,Finance,Value_4,2021-09-19,33627,25,97,19,Value_2,98
-93,Eve Taylor,Finance,Value_8,2023-06-26,71110,12,99,72,Value_9,17
-30,Ivan Hill,Finance,Value_9,2020-05-18,58887,6,7,2,Value_7,72
-76,Ivan Clark,IT,Value_7,2023-09-30,72066,78,91,58,Value_6,33
-37,Zack Davis,Sales,Value_3,2015-07-14,84488,52,96,40,Value_9,28
-41,Alice Lee,Marketing,Value_3,2019-01-01,101725,57,43,22,Value_8,39
-38,Uma Jones,Engineering,Value_7,2023-12-11,73794,89,60,65,Value_6,76
-18,Quinn Lee,Marketing,Value_7,2019-09-03,57425,75,80,97,Value_6,10
-22,Laura Allen,Marketing,Value_9,2015-11-19,57298,2,58,24,Value_2,3
-71,Bob Harris,Customer Service,Value_2,2022-03-23,72806,50,47,19,Value_7,84
-31,Laura Hernandez,Operations,Value_3,2017-12-16,65956,65,23,75,Value_4,73
-83,Tina Thompson,Sales,Value_8,2019-03-14,88226,66,17,88,Value_8,18
-12,Pamela Thomas,Sales,Value_5,2022-05-14,88364,73,76,75,Value_8,13
-54,Rachel White,HR,Value_3,2015-02-13,58924,13,74,59,Value_9,15
-56,Kevin Thompson,Customer Service,Value_2,2024-01-29,73826,72,72,13,Value_4,3
-68,Oscar Hernandez,Sales,Value_6,2021-03-14,3563,9,85,64,Value_6,35
-46,Frank Moore,Engineering,Value_7,2022-10-11,71800,67,41,47,Value_5,39
-88,Daniel Thomas,Marketing,Value_2,2015-08-21,42344,82,17,72,Value_2,77
-31,Diana Garcia,Finance,Value_9,2021-02-07,119572,19,78,12,Value_9,87
-91,Mike Clark,Sales,Value_8,2022-03-31,76779,28,45,18,Value_8,33
-74,Oscar Martin,Customer Service,Value_5,2020-07-25,53866,40,38,68,Value_1,86
-22,Daniel Davis,Operations,Value_6,2019-05-24,68026,96,90,28,Value_7,1
-85,Uma Harris,Customer Service,Value_2,2016-10-16,61510,76,81,32,Value_8,77
-33,Alice Anderson,Customer Service,Value_3,2022-03-12,69876,71,66,77,Value_8,61
-89,Uma Young,Sales,Value_3,2016-06-10,37709,91,73,7,Value_8,61
-87,Nancy Hall,HR,Value_9,2017-12-17,74701,77,12,2,Value_1,11
-9,Wendy Thomas,IT,Value_6,2017-02-09,99625,48,70,35,Value_7,27
-35,Alice Smith,Marketing,Value_6,2022-10-11,72530,81,39,15,Value_8,79
-27,Yara Williams,Engineering,Value_2,2020-10-20,43467,33,9,6,Value_3,21
-13,Steve Thompson,Marketing,Value_3,2024-03-31,70803,62,97,89,Value_8,61
-49,Judy Smith,Marketing,Value_5,2021-02-10,43830,27,13,67,Value_4,51
-31,Xavier Garcia,IT,Value_2,2021-02-26,78115,8,35,16,Value_4,83
-57,Uma Moore,IT,Value_9,2021-05-25,73284,72,21,51,Value_4,21
-34,Linda Hill,HR,Value_1,2021-09-04,57587,26,42,83,Value_2,55
-25,Kevin Moore,IT,Value_3,2017-07-12,89641,68,89,80,Value_2,39
-39,Pamela Clark,HR,Value_3,2021-05-19,64189,66,95,6,Value_1,43
-60,Grace Martin,Engineering,Value_8,2023-09-09,66185,17,14,31,Value_2,72
-11,Linda Robinson,Engineering,Value_7,2022-09-26,68287,16,92,45,Value_3,94
-98,Ethan Anderson,Customer Service,Value_1,2023-12-30,52776,54,15,31,Value_6,10
-2,Heidi Anderson,IT,Value_1,2016-10-24,46838,59,31,73,Value_3,2
-98,Oscar Davis,Customer Service,Value_2,2019-10-11,70820,71,43,57,Value_8,7
-61,Yara Thompson,Engineering,Value_6,2015-10-18,38008,46,33,33,Value_9,50
+21,Eve Hernandez,Marketing,associate,1/3/2017,69691,39,1,95,male,2
+36,Tina Hall,Customer Service,associate,8/1/2024,64169,82,10,28,male,2
+81,Zack Wright,Marketing,manager,4/15/2024,51257,53,74,62,male,6
+50,Grace Williams,Customer Service,executive,10/26/2019,100467,72,67,47,male,4
+86,Ethan Anderson,Operations,executive,12/26/2019,65167,21,68,8,female,4
+77,Ethan Jones,HR,executive,10/15/2021,91913,46,16,57,female,4
+96,Rachel Martinez,HR,executive,12/21/2019,89958,27,14,54,female,4
+92,Heidi Garcia,Engineering,executive,8/8/2018,100418,22,34,83,male,4
+40,Victor Wilson,IT,executive,10/9/2019,88118,6,10,10,female,4
+60,Victor Anderson,Operations,manager,9/9/2018,80571,56,37,64,male,6
+65,Wendy Jones,Finance,executive,2/7/2022,31677,95,18,15,female,4
+31,Tina White,Operations,executive,4/7/2019,44968,69,43,34,female,4
+9,Wendy Taylor,Finance,manager,1/31/2020,71182,54,82,90,female,6
+83,Kevin Wilson,IT,executive,10/27/2020,77944,4,53,15,female,4
+40,Rachel Thompson,Sales,associate,9/27/2021,40315,79,26,24,female,2
+27,Victor Thompson,Operations,associate,11/12/2023,56092,14,34,23,female,2
+39,Nancy Allen,Customer Service,associate,11/12/2022,89012,26,85,74,female,2
+10,Diana Williams,Marketing,executive,12/20/2024,76326,76,42,65,male,4
+1,Kevin Taylor,IT,associate,1/2/2021,106989,87,66,15,female,2
+20,Nancy King,HR,executive,10/19/2020,48829,6,73,14,female,4
+11,Tina Thompson,Sales,executive,5/17/2019,57206,98,63,7,female,4
+85,Zack Harris,HR,associate,9/13/2022,82152,89,52,6,female,2
+65,Pamela Clark,Finance,executive,11/14/2024,81192,18,80,52,female,4
+68,Ivan Moore,Operations,associate,1/24/2018,87704,10,73,96,female,2
+76,Judy King,Operations,executive,6/27/2017,79908,16,66,54,female,4
+68,Pamela Hernandez,IT,executive,1/31/2017,57484,1,68,68,female,4
+46,Uma Jackson,Finance,manager,1/15/2017,69095,43,1,65,male,6
+73,Xavier Wilson,IT,executive,10/6/2019,86421,1,19,48,female,4
+82,Zack Robinson,Engineering,manager,4/13/2021,43338,31,65,27,female,6
+53,Alice Jones,IT,executive,3/27/2018,42398,16,20,47,female,4
+70,Ethan Robinson,Marketing,executive,6/7/2022,79354,59,73,14,female,4
+40,Charlie Miller,Operations,associate,3/2/2018,74227,44,28,20,male,2
+69,Sophia Thomas,Finance,executive,12/22/2024,67876,37,30,47,female,4
+62,Quinn Harris,HR,associate,1/31/2019,60728,35,69,15,female,2
+95,Charlie Harris,Marketing,executive,12/18/2024,78911,92,69,73,male,4
+33,Kevin Lopez,Finance,associate,7/13/2023,70841,62,65,87,female,2
+11,Steve Martin,IT,manager,2/9/2019,74986,95,72,76,male,6
+84,Daniel King,HR,manager,1/31/2018,96107,4,90,1,male,6
+94,Quinn Anderson,Customer Service,executive,7/3/2019,38336,56,93,19,female,4
+39,Rachel Miller,HR,manager,1/12/2024,95800,22,48,28,male,6
+22,Pamela White,Customer Service,executive,10/19/2019,100355,1,50,12,female,4
+30,Frank Davis,Finance,manager,12/12/2020,60543,42,93,38,female,6
+75,Grace Martinez,IT,executive,1/31/2021,40942,42,38,63,male,4
+84,Victor Robinson,HR,associate,12/1/2023,121613,98,91,20,male,2
+15,Linda Jackson,Operations,associate,7/13/2024,87754,26,49,89,female,2
+91,Nancy Moore,Operations,executive,11/27/2021,63015,13,7,69,male,4
+51,Daniel Lee,Operations,manager,6/17/2024,43929,8,11,7,male,6
+80,Linda Jackson,Sales,executive,12/11/2020,100268,14,11,99,male,4
+37,Eve Lewis,Customer Service,associate,9/13/2021,70859,20,13,7,female,2
+95,Heidi Thompson,Customer Service,manager,3/5/2024,66894,44,2,16,female,6
+33,Zack Williams,Sales,associate,7/10/2017,80515,63,57,48,male,2
+24,Ethan Martin,Sales,associate,4/1/2024,66001,63,90,86,male,2
+70,Judy Jackson,IT,executive,12/15/2018,53222,6,81,98,female,4
+96,Alice Hernandez,Finance,executive,6/12/2017,73137,99,91,77,female,4
+70,Ivan Jones,Customer Service,manager,2/25/2023,55144,98,70,68,female,6
+69,Rachel Brown,Finance,executive,11/17/2023,74299,29,12,75,female,4
+1,Judy Anderson,IT,associate,7/7/2023,83674,6,42,11,female,2
+9,Alice Wright,Marketing,manager,10/15/2022,95327,97,92,14,female,6
+53,Victor Martinez,Finance,executive,12/26/2018,33627,25,97,19,male,4
+93,Eve Taylor,Finance,manager,3/22/2024,71110,12,99,72,female,6
+30,Ivan Hill,Finance,executive,4/6/2021,58887,6,7,2,male,4
+76,Ivan Clark,IT,associate,7/29/2023,72066,78,91,58,male,2
+37,Zack Davis,Sales,executive,8/27/2020,84488,52,96,40,female,4
+41,Alice Lee,Marketing,executive,10/18/2019,101725,57,43,22,female,4
+38,Uma Jones,Engineering,associate,7/14/2023,73794,89,60,65,male,2
+18,Quinn Lee,Marketing,associate,12/15/2019,57425,75,80,97,male,2
+22,Laura Allen,Marketing,executive,6/14/2021,57298,2,58,24,male,4
+71,Bob Harris,Customer Service,associate,6/2/2021,72806,50,47,19,male,2
+31,Laura Hernandez,Operations,executive,5/30/2024,65956,65,23,75,female,4
+83,Tina Thompson,Sales,manager,7/4/2020,88226,66,17,88,female,6
+12,Pamela Thomas,Sales,executive,10/3/2019,88364,73,76,75,female,4
+54,Rachel White,HR,executive,8/15/2019,58924,13,74,59,female,4
+56,Kevin Thompson,Customer Service,associate,9/30/2022,73826,72,72,13,female,2
+68,Oscar Hernandez,Sales,associate,1/19/2017,3563,9,85,64,male,2
+46,Frank Moore,Engineering,associate,8/31/2022,71800,67,41,47,female,2
+88,Daniel Thomas,Marketing,associate,1/23/2019,42344,82,17,72,male,2
+31,Diana Garcia,Finance,executive,3/21/2019,119572,19,78,12,female,4
+91,Mike Clark,Sales,manager,6/15/2017,76779,28,45,18,female,6
+74,Oscar Martin,Customer Service,executive,12/22/2021,53866,40,38,68,male,4
+22,Daniel Davis,Operations,associate,8/10/2022,68026,96,90,28,male,2
+85,Uma Harris,Customer Service,associate,7/31/2019,61510,76,81,32,female,2
+33,Alice Anderson,Customer Service,executive,12/21/2019,69876,71,66,77,female,4
+89,Uma Young,Sales,executive,12/1/2018,37709,91,73,7,female,4
+87,Nancy Hall,HR,executive,11/11/2020,74701,77,12,2,male,4
+9,Wendy Thomas,IT,associate,8/2/2017,99625,48,70,35,male,2
+35,Alice Smith,Marketing,associate,3/31/2021,72530,81,39,15,female,2
+27,Yara Williams,Engineering,associate,6/2/2019,43467,33,9,6,female,2
+13,Steve Thompson,Marketing,executive,2/28/2020,70803,62,97,89,female,4
+49,Judy Smith,Marketing,executive,1/31/2022,43830,27,13,67,female,4
+31,Xavier Garcia,IT,associate,9/3/2017,78115,8,35,16,female,2
+57,Uma Moore,IT,executive,9/6/2018,73284,72,21,51,female,4
+34,Linda Hill,HR,manager,8/2/2022,57587,26,42,83,male,6
+25,Kevin Moore,IT,executive,5/13/2024,89641,68,89,80,male,4
+39,Pamela Clark,HR,executive,11/3/2022,64189,66,95,6,male,4
+60,Grace Martin,Engineering,manager,12/8/2024,66185,17,14,31,male,6
+11,Linda Robinson,Engineering,associate,5/12/2019,68287,16,92,45,female,2
+98,Ethan Anderson,Customer Service,manager,7/1/2019,52776,54,15,31,male,6
+2,Heidi Anderson,IT,manager,9/6/2023,46838,59,31,73,female,6
+98,Oscar Davis,Customer Service,associate,4/16/2023,70820,71,43,57,female,2
+61,Yara Thompson,Engineering,associate,8/9/2017,38008,46,33,33,female,2
