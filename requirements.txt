@@ -10,6 +10,7 @@ pandas
 pytest
 plotly
 fpdf
+streamlit_option_menu 
 gunicorn # For production web server
 
 # Add other dependencies as needed for your project
