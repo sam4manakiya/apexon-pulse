@@ -9,6 +9,7 @@ numpy~=1.26.0
 pandas
 pytest
 plotly
+fpdf
 gunicorn # For production web server
 
 # Add other dependencies as needed for your project
