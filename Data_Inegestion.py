@@ -18,7 +18,7 @@ def dispaly_data_ingestion(df):
                 df_loaded = pd.read_csv(csv_file_path)
                 st.success(f"Data loaded successfully from '{csv_file_path}'!")
                 st.markdown("Here's a preview of the data loaded from your project CSV:")
-                st.dataframe(df_loaded.head(10))
+                st.dataframe(df_loaded.head(500))
                 st.session_state['employee_data'] = df_loaded 
             except Exception as e:
                 st.error(f"Error reading CSV file '{csv_file_path}': {e}")

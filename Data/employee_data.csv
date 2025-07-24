@@ -1,501 +1,501 @@
-EmployeeID,Name,Department,Role,HireDate,Salary,PerformanceRating,EngagementScore,Attrition,Gender,TenureYears
-1000,Charlie Lee,IT,manager,02/19/2022,82566,58,52,86,female,9
-1001,Hannah Moore,Sales,executive,05/25/2023,68761,44,4,30,female,5
-1002,George Wilson,Operations,associate,07/27/2019,110542,2,26,38,male,2
-1003,Ivan Clark,Marketing,associate,05/30/2020,35584,34,67,92,male,9
-1004,Fiona Davis,HR,executive,09/09/2018,63542,35,57,7,female,2
-1005,George Wilson,HR,executive,01/09/2017,41913,25,56,43,female,3
-1006,Julia Taylor,Engineering,manager,07/03/2025,45146,36,19,41,female,4
-1007,Bob Johnson,Marketing,manager,11/24/2015,102118,5,80,9,female,4
-1008,Diana King,Marketing,executive,07/08/2025,75476,10,70,35,male,5
-1009,Charlie Lee,Marketing,executive,12/23/2025,100592,4,9,61,male,2
-1010,Alice Smith,Sales,associate,05/03/2020,44609,50,36,15,male,5
-1011,Charlie Lee,Marketing,associate,05/29/2025,100177,69,7,61,male,1
-1012,Ethan Brown,Customer Service,executive,02/04/2024,109886,64,90,47,male,8
-1013,Charlie Lee,Operations,associate,12/16/2024,82878,15,96,78,female,1
-1014,Hannah Moore,Customer Service,associate,03/28/2022,84084,20,31,63,female,9
-1015,Charlie Lee,Operations,manager,11/14/2021,59947,20,24,44,female,4
-1016,Fiona Davis,Sales,associate,02/05/2017,38354,67,29,51,female,4
-1017,Hannah Moore,Finance,manager,10/11/2020,76586,11,100,67,male,3
-1018,Hannah Moore,IT,executive,04/09/2016,68132,20,16,13,male,5
-1019,Hannah Moore,Marketing,associate,08/20/2019,69543,69,76,60,female,5
-1020,Alice Smith,Engineering,manager,07/14/2017,40893,32,37,94,female,6
-1021,Ivan Clark,Finance,manager,02/07/2019,34024,50,65,27,male,7
-1022,Julia Taylor,IT,manager,10/24/2020,108013,37,6,30,male,1
-1023,Julia Taylor,Operations,associate,06/12/2021,39968,57,29,57,female,9
-1024,Diana King,Marketing,executive,06/14/2021,112915,9,76,75,male,3
-1025,Ethan Brown,Customer Service,manager,03/01/2018,98720,30,65,71,female,8
-1026,Alice Smith,Marketing,associate,06/13/2019,99650,74,31,30,female,10
-1027,Ethan Brown,Marketing,executive,03/26/2019,53233,84,69,95,female,9
-1028,Alice Smith,Engineering,manager,05/19/2024,50699,85,8,96,female,9
-1029,George Wilson,Finance,manager,11/22/2019,36414,43,100,16,female,5
-1030,Fiona Davis,Sales,manager,10/29/2020,101101,54,70,96,male,8
-1031,Hannah Moore,Engineering,manager,10/18/2023,74909,96,20,13,female,9
-1032,Julia Taylor,IT,executive,05/24/2024,90090,36,82,9,male,10
-1033,Hannah Moore,Engineering,executive,11/17/2023,95772,61,59,21,female,8
-1034,Ethan Brown,Sales,associate,11/07/2021,34001,66,32,64,male,6
-1035,Diana King,Customer Service,associate,07/20/2024,77244,80,58,23,male,8
-1036,Charlie Lee,Finance,manager,06/06/2021,33851,13,1,97,female,7
-1037,Bob Johnson,Finance,executive,11/28/2024,33930,30,93,78,male,6
-1038,Fiona Davis,IT,associate,03/25/2015,43765,19,21,98,male,7
-1039,Julia Taylor,Engineering,manager,10/24/2023,115674,57,72,95,male,10
-1040,Ivan Clark,HR,associate,04/08/2020,69817,81,18,64,female,9
-1041,Hannah Moore,Finance,associate,06/21/2018,35253,1,52,90,female,7
-1042,Ethan Brown,Engineering,manager,09/18/2018,34744,76,48,25,male,3
-1043,Fiona Davis,Finance,manager,12/24/2019,42738,9,65,57,male,9
-1044,Diana King,Marketing,manager,05/07/2020,108456,8,41,92,female,1
-1045,Julia Taylor,Marketing,manager,05/15/2024,93299,17,8,82,female,2
-1046,Diana King,IT,executive,03/01/2025,46965,40,15,19,male,3
-1047,Bob Johnson,IT,associate,10/27/2015,86188,64,62,35,female,5
-1048,Bob Johnson,Customer Service,manager,03/09/2023,59015,76,92,1,female,5
-1049,Ethan Brown,Engineering,executive,11/13/2017,93261,87,55,3,male,10
-1050,Julia Taylor,Engineering,executive,05/14/2024,64105,18,81,100,male,3
-1051,Diana King,IT,executive,06/06/2025,101626,38,37,45,male,7
-1052,Hannah Moore,Sales,associate,12/05/2022,56202,27,56,2,male,1
-1053,Ethan Brown,Marketing,associate,08/27/2019,56112,90,81,14,female,1
-1054,Fiona Davis,Customer Service,executive,02/07/2016,48786,65,82,71,female,5
-1055,Julia Taylor,Marketing,associate,05/03/2016,47767,32,10,43,male,1
-1056,Diana King,Customer Service,executive,07/19/2018,117043,10,45,10,male,7
-1057,Ivan Clark,Customer Service,associate,02/05/2022,80548,54,87,2,male,8
-1058,Charlie Lee,Sales,manager,11/04/2019,116458,13,58,49,female,6
-1059,Diana King,Customer Service,associate,10/02/2023,81146,50,13,44,male,9
-1060,Charlie Lee,Marketing,manager,08/01/2020,106584,27,50,46,female,8
-1061,Ivan Clark,Operations,executive,09/04/2021,71177,90,30,4,male,10
-1062,Ethan Brown,HR,manager,11/04/2015,42118,97,64,32,male,7
-1063,Alice Smith,Operations,executive,10/16/2020,82579,67,17,75,female,3
-1064,Julia Taylor,IT,manager,06/13/2019,74877,20,41,12,male,7
-1065,Alice Smith,IT,executive,04/15/2024,81532,35,51,18,female,2
-1066,Fiona Davis,Finance,executive,11/01/2022,34074,42,60,45,female,1
-1067,Ivan Clark,Engineering,manager,03/28/2016,35984,58,49,12,male,10
-1068,Hannah Moore,Customer Service,executive,12/04/2022,95664,2,2,77,male,1
-1069,Hannah Moore,Finance,associate,12/15/2017,88130,54,82,69,male,8
-1070,Bob Johnson,Customer Service,executive,01/06/2021,79458,16,23,47,male,8
-1071,Hannah Moore,Customer Service,executive,05/21/2022,112436,57,83,68,female,7
-1072,Bob Johnson,IT,executive,11/24/2018,116614,4,14,26,female,2
-1073,Alice Smith,Customer Service,associate,06/15/2025,46476,77,100,78,male,5
-1074,Alice Smith,Marketing,executive,08/25/2025,69666,82,28,91,male,5
-1075,Ethan Brown,Customer Service,manager,11/25/2016,85349,93,3,12,female,6
-1076,Charlie Lee,Customer Service,associate,05/17/2025,116061,73,18,44,male,10
-1077,Julia Taylor,Marketing,associate,04/03/2022,112565,91,97,74,female,8
-1078,Ivan Clark,HR,manager,11/26/2022,71671,94,83,81,female,10
-1079,Charlie Lee,Operations,associate,11/21/2025,85092,97,46,85,male,2
-1080,Ethan Brown,HR,manager,11/13/2023,94552,69,48,82,male,10
-1081,Hannah Moore,Operations,manager,10/14/2015,100259,78,32,99,male,10
-1082,Julia Taylor,Marketing,manager,06/16/2024,94971,48,48,48,female,2
-1083,Charlie Lee,Finance,associate,06/22/2017,94279,79,50,35,female,10
-1084,Fiona Davis,Engineering,associate,12/20/2021,49262,92,73,90,female,8
-1085,Alice Smith,Marketing,associate,07/13/2021,101687,88,96,5,female,5
-1086,Hannah Moore,Sales,associate,11/25/2023,89451,25,71,42,female,7
-1087,Bob Johnson,Marketing,associate,09/27/2017,110705,3,83,49,female,8
-1088,Charlie Lee,IT,manager,05/09/2021,111040,76,50,33,male,9
-1089,Diana King,Customer Service,associate,02/08/2018,66277,12,39,46,male,1
-1090,Julia Taylor,Marketing,manager,02/11/2018,95326,65,97,79,female,3
-1091,Diana King,HR,manager,03/22/2020,115831,76,7,99,male,9
-1092,Ivan Clark,Finance,executive,02/13/2021,36682,62,3,64,female,6
-1093,Julia Taylor,Sales,executive,09/02/2018,111731,24,27,67,female,10
-1094,George Wilson,Engineering,associate,07/15/2016,68246,47,66,51,female,8
-1095,Fiona Davis,HR,executive,05/15/2021,113508,33,96,13,female,6
-1096,Julia Taylor,Sales,associate,08/28/2017,99526,82,67,62,male,2
-1097,Julia Taylor,HR,associate,09/26/2021,40707,8,26,21,female,8
-1098,Ethan Brown,HR,manager,04/10/2025,116841,51,95,91,female,2
-1099,George Wilson,HR,manager,11/18/2017,41284,21,63,29,male,3
-1100,Ethan Brown,IT,manager,12/22/2024,61057,16,96,82,male,5
-1101,George Wilson,Finance,manager,07/15/2018,34702,1,58,11,female,4
-1102,George Wilson,Sales,associate,03/01/2025,97279,80,58,56,female,5
-1103,George Wilson,HR,associate,08/25/2015,41311,99,6,49,male,10
-1104,Bob Johnson,Sales,manager,05/26/2025,45653,55,77,41,male,8
-1105,Fiona Davis,Customer Service,manager,08/31/2023,69456,88,7,3,female,3
-1106,George Wilson,Marketing,manager,07/04/2016,101143,83,20,91,male,7
-1107,Hannah Moore,Sales,manager,08/13/2023,91975,10,36,22,male,8
-1108,Alice Smith,Engineering,manager,05/08/2019,106274,59,48,62,female,2
-1109,Ethan Brown,Customer Service,executive,01/12/2024,61035,73,58,46,female,3
-1110,Alice Smith,Operations,manager,09/13/2016,94873,29,97,14,male,5
-1111,Julia Taylor,Finance,executive,10/24/2024,45046,22,28,79,female,6
-1112,Diana King,Marketing,associate,02/18/2018,65366,65,93,17,female,1
-1113,George Wilson,IT,executive,06/06/2016,49854,40,66,62,male,4
-1114,Hannah Moore,Marketing,manager,08/30/2025,81226,47,66,76,male,9
-1115,Hannah Moore,Engineering,manager,09/13/2024,52294,3,9,87,male,4
-1116,Bob Johnson,Operations,associate,02/02/2023,107815,74,36,31,female,9
-1117,Alice Smith,Finance,associate,11/01/2022,89133,86,5,76,male,4
-1118,Bob Johnson,Sales,executive,04/27/2019,31823,83,3,58,male,10
-1119,Ethan Brown,Operations,manager,04/28/2025,60093,11,3,3,male,2
-1120,Charlie Lee,Sales,executive,08/08/2019,31444,63,88,91,female,2
-1121,Fiona Davis,Engineering,associate,03/09/2024,34947,12,28,3,male,5
-1122,Hannah Moore,Sales,executive,08/12/2021,61861,26,65,52,male,6
-1123,Fiona Davis,Marketing,associate,07/26/2019,87580,38,75,39,male,5
-1124,Alice Smith,Operations,manager,09/22/2025,84122,69,37,48,female,8
-1125,George Wilson,Customer Service,executive,11/24/2019,85971,57,50,59,female,8
-1126,Alice Smith,Marketing,executive,01/31/2018,112329,99,32,96,female,8
-1127,Alice Smith,Customer Service,executive,11/26/2018,59246,94,65,20,male,10
-1128,Alice Smith,Finance,manager,02/16/2023,69394,29,14,72,female,9
-1129,Charlie Lee,Customer Service,manager,05/19/2020,33518,93,84,89,male,4
-1130,Diana King,IT,executive,06/08/2023,66464,36,19,69,male,1
-1131,Fiona Davis,IT,executive,01/03/2021,45398,92,10,12,male,9
-1132,Bob Johnson,Customer Service,executive,11/17/2017,55953,60,19,57,male,9
-1133,Julia Taylor,HR,associate,08/16/2025,116712,80,78,83,male,2
-1134,Diana King,Operations,manager,09/03/2021,55439,17,62,65,male,8
-1135,Ivan Clark,Customer Service,executive,06/15/2023,31047,14,100,94,female,7
-1136,Hannah Moore,Engineering,manager,09/21/2024,32070,72,13,99,female,4
-1137,George Wilson,Operations,associate,04/07/2021,74347,28,93,66,female,9
-1138,George Wilson,HR,manager,08/16/2016,88677,8,8,65,female,9
-1139,Julia Taylor,Operations,manager,05/23/2024,64361,59,14,97,male,6
-1140,Ivan Clark,Engineering,executive,06/21/2017,77291,71,83,58,female,5
-1141,Julia Taylor,Finance,associate,02/20/2019,64575,35,80,61,male,7
-1142,Alice Smith,Marketing,executive,07/06/2021,55295,15,63,26,female,7
-1143,Alice Smith,Sales,executive,05/22/2020,53003,88,80,64,female,3
-1144,George Wilson,Customer Service,executive,10/11/2021,63277,96,37,26,male,7
-1145,Julia Taylor,HR,manager,01/19/2025,88805,79,21,71,female,8
-1146,Ethan Brown,Customer Service,associate,03/17/2023,99742,44,40,94,female,4
-1147,Fiona Davis,IT,executive,01/12/2017,36981,47,55,68,female,5
-1148,Hannah Moore,Engineering,manager,10/08/2025,47764,57,28,51,female,9
-1149,Charlie Lee,Customer Service,executive,07/31/2023,98756,46,41,3,male,7
-1150,Hannah Moore,Operations,manager,04/13/2020,89384,14,33,8,male,1
-1151,Julia Taylor,Sales,manager,09/17/2020,100550,47,28,10,female,2
-1152,Hannah Moore,Operations,executive,07/21/2025,72772,70,84,78,male,7
-1153,Julia Taylor,IT,associate,04/24/2019,105226,29,63,91,female,2
-1154,Bob Johnson,Finance,manager,06/30/2016,48292,81,83,9,female,1
-1155,George Wilson,Customer Service,associate,08/16/2022,44233,85,70,7,female,2
-1156,Hannah Moore,Sales,executive,12/10/2020,36182,48,91,59,male,4
-1157,Bob Johnson,Marketing,associate,08/07/2020,92170,80,32,38,male,2
-1158,Hannah Moore,IT,associate,10/06/2022,108267,37,74,53,male,6
-1159,Julia Taylor,IT,associate,04/08/2016,46506,84,63,91,male,3
-1160,Ivan Clark,Marketing,associate,12/16/2017,42248,16,21,95,male,1
-1161,Ivan Clark,HR,associate,01/08/2021,86664,13,8,28,female,4
-1162,Julia Taylor,Operations,associate,04/10/2017,89222,85,84,18,male,2
-1163,Julia Taylor,Sales,associate,02/01/2018,115856,38,43,88,male,10
-1164,Julia Taylor,Operations,manager,07/06/2020,70399,44,9,6,female,6
-1165,Fiona Davis,Customer Service,associate,05/03/2021,112725,2,44,93,female,8
-1166,George Wilson,Finance,associate,07/16/2024,60790,6,10,19,male,3
-1167,Julia Taylor,Engineering,manager,10/20/2023,47969,33,54,52,male,6
-1168,Alice Smith,Customer Service,manager,05/21/2019,113742,93,70,26,male,1
-1169,Fiona Davis,IT,associate,01/17/2023,102502,90,65,41,female,10
-1170,George Wilson,Marketing,associate,07/18/2019,76413,16,58,69,female,5
-1171,George Wilson,Customer Service,executive,12/13/2021,33290,44,8,15,female,7
-1172,George Wilson,Engineering,associate,06/14/2023,35522,20,86,59,female,8
-1173,Ivan Clark,Customer Service,executive,01/27/2020,106050,66,100,85,male,3
-1174,Fiona Davis,Sales,manager,12/31/2018,49963,37,17,96,female,7
-1175,Charlie Lee,Finance,associate,09/25/2016,47398,51,81,51,male,5
-1176,Alice Smith,Finance,manager,08/03/2015,92500,40,54,59,female,10
-1177,Diana King,IT,manager,03/13/2021,77904,72,6,4,male,10
-1178,Bob Johnson,Engineering,manager,01/23/2024,75141,69,22,9,male,1
-1179,Julia Taylor,Finance,manager,06/21/2015,101308,5,73,86,female,9
-1180,Fiona Davis,Sales,associate,03/16/2019,86515,62,75,26,female,10
-1181,Charlie Lee,Marketing,executive,01/14/2019,78761,12,11,28,female,6
-1182,Diana King,Engineering,associate,12/12/2021,96322,72,1,48,male,6
-1183,Hannah Moore,Customer Service,executive,04/08/2015,56382,94,89,29,male,3
-1184,Ivan Clark,Engineering,associate,04/24/2015,42085,90,22,94,female,1
-1185,Julia Taylor,Engineering,associate,12/01/2022,116823,27,38,5,male,8
-1186,Ethan Brown,Customer Service,executive,11/03/2023,79809,8,74,32,female,8
-1187,Bob Johnson,Customer Service,manager,05/31/2024,41838,90,98,50,male,5
-1188,Ivan Clark,Marketing,executive,08/27/2015,115213,75,30,37,male,8
-1189,Hannah Moore,Marketing,manager,05/30/2021,92503,89,94,92,female,6
-1190,Hannah Moore,Sales,manager,10/30/2025,99144,82,38,26,female,5
-1191,George Wilson,Marketing,manager,03/26/2017,45788,33,31,41,male,2
-1192,Fiona Davis,IT,executive,06/28/2025,96655,35,49,56,female,3
-1193,Julia Taylor,Engineering,executive,08/03/2015,47509,17,6,10,female,1
-1194,Diana King,Engineering,manager,08/18/2015,50340,87,29,90,female,3
-1195,Hannah Moore,Operations,manager,05/16/2025,38968,53,15,59,male,9
-1196,George Wilson,HR,executive,05/30/2021,37415,85,8,65,male,7
-1197,George Wilson,Marketing,manager,08/28/2015,98125,5,72,68,male,9
-1198,Hannah Moore,IT,associate,07/11/2018,37526,56,53,26,male,8
-1199,Alice Smith,Sales,manager,06/05/2016,50704,25,9,59,female,3
-1200,Ivan Clark,Sales,executive,03/12/2022,82996,21,11,25,male,8
-1201,Fiona Davis,Sales,executive,01/28/2022,62123,92,28,33,male,6
-1202,Ivan Clark,Marketing,manager,08/03/2025,100175,74,80,77,female,9
-1203,Ivan Clark,Customer Service,executive,08/10/2025,57584,22,51,65,male,8
-1204,Ivan Clark,Marketing,executive,03/09/2019,72885,6,7,82,male,5
-1205,Ivan Clark,Operations,manager,11/02/2020,75550,44,82,63,female,5
-1206,George Wilson,Finance,manager,08/25/2023,44285,93,61,82,male,1
-1207,Julia Taylor,Sales,manager,11/27/2017,100424,76,77,68,male,4
-1208,Julia Taylor,Operations,associate,05/29/2015,75666,80,64,20,male,4
-1209,George Wilson,IT,executive,04/27/2024,46549,81,79,18,female,9
-1210,Ethan Brown,Sales,associate,08/28/2016,99468,20,100,37,female,9
-1211,Ethan Brown,IT,associate,07/21/2017,34148,32,13,84,male,8
-1212,Ethan Brown,Operations,executive,02/09/2016,84731,13,83,53,male,3
-1213,Hannah Moore,Marketing,manager,08/17/2023,58977,33,64,41,male,1
-1214,Hannah Moore,Engineering,associate,09/21/2022,113632,98,61,86,female,6
-1215,Diana King,Marketing,executive,10/18/2016,86178,89,2,32,male,9
-1216,Ethan Brown,Engineering,manager,05/27/2016,49707,15,70,52,male,5
-1217,George Wilson,Operations,executive,10/15/2022,111334,92,22,44,male,2
-1218,George Wilson,Marketing,manager,11/10/2018,60645,99,55,28,male,5
-1219,Charlie Lee,Sales,executive,09/14/2025,61344,86,9,87,male,1
-1220,Hannah Moore,Finance,associate,07/20/2020,63943,17,91,90,male,7
-1221,Alice Smith,Sales,executive,06/20/2025,30794,62,16,75,female,3
-1222,Alice Smith,Operations,executive,10/15/2016,58194,62,75,76,male,10
-1223,George Wilson,Engineering,associate,07/08/2019,85969,47,32,32,male,7
-1224,Hannah Moore,Engineering,executive,06/18/2018,110072,34,55,49,male,10
-1225,Bob Johnson,HR,associate,01/01/2024,65069,10,71,58,female,10
-1226,Alice Smith,Operations,associate,07/19/2024,30581,70,89,68,male,10
-1227,Alice Smith,Operations,associate,01/22/2023,102764,49,49,82,female,1
-1228,Bob Johnson,Customer Service,associate,12/15/2022,46517,52,68,39,male,6
-1229,Charlie Lee,Marketing,executive,02/16/2017,42614,65,16,81,female,6
-1230,Ethan Brown,Operations,manager,02/27/2017,74850,11,9,66,female,7
-1231,Julia Taylor,Engineering,manager,08/30/2023,79287,89,93,9,male,7
-1232,Ethan Brown,Sales,manager,08/26/2017,64617,59,26,51,female,1
-1233,Ivan Clark,IT,executive,10/06/2015,50149,86,50,29,female,4
-1234,Ivan Clark,Customer Service,associate,09/21/2019,71775,24,56,17,female,9
-1235,Ethan Brown,Sales,manager,07/02/2023,68435,44,93,9,male,7
-1236,Ethan Brown,Customer Service,executive,11/25/2017,102657,34,100,82,male,4
-1237,Ivan Clark,Engineering,executive,04/13/2019,116294,91,90,41,female,2
-1238,Ivan Clark,Customer Service,manager,03/15/2019,73808,56,8,77,male,9
-1239,Diana King,Sales,associate,08/17/2016,45082,89,73,61,male,3
-1240,Charlie Lee,HR,associate,01/21/2023,93299,74,26,32,female,1
-1241,Hannah Moore,Marketing,manager,03/11/2018,86625,38,34,79,female,8
-1242,Hannah Moore,HR,executive,11/07/2015,93021,99,100,13,male,9
-1243,George Wilson,Engineering,manager,09/03/2016,49509,16,8,77,female,9
-1244,Ethan Brown,Sales,associate,11/08/2021,50688,60,90,88,male,3
-1245,Ivan Clark,Customer Service,associate,11/25/2016,88987,100,44,57,female,7
-1246,Diana King,Finance,associate,01/05/2016,111269,85,14,89,female,3
-1247,Bob Johnson,Operations,manager,10/04/2019,64463,3,77,15,male,2
-1248,George Wilson,Marketing,executive,12/15/2018,32538,5,94,30,female,6
-1249,Diana King,IT,associate,01/23/2025,106952,14,39,33,female,10
-1250,George Wilson,Marketing,manager,06/18/2020,95844,9,31,25,male,2
-1251,Alice Smith,Sales,associate,05/20/2021,88738,69,46,54,female,8
-1252,Alice Smith,HR,manager,06/05/2024,77085,93,88,28,female,10
-1253,Ivan Clark,Engineering,associate,07/03/2019,33509,9,40,67,male,4
-1254,Charlie Lee,HR,manager,10/30/2018,72380,100,59,26,male,8
-1255,Bob Johnson,Marketing,executive,09/09/2024,68056,74,73,43,male,9
-1256,George Wilson,Engineering,associate,07/06/2016,105978,10,95,8,male,6
-1257,George Wilson,Sales,associate,11/05/2025,69560,26,13,43,male,6
-1258,Diana King,Finance,manager,04/23/2017,69831,3,82,66,male,8
-1259,Fiona Davis,Sales,associate,08/29/2018,63131,15,78,56,female,4
-1260,Alice Smith,Finance,manager,07/24/2018,116215,75,59,18,male,9
-1261,Ivan Clark,Sales,executive,04/23/2024,93751,52,34,89,male,9
-1262,Ivan Clark,HR,manager,01/08/2025,55553,24,96,75,female,5
-1263,Fiona Davis,Operations,manager,10/05/2016,38143,91,53,51,male,6
-1264,Diana King,HR,executive,03/26/2015,41623,11,28,64,female,9
-1265,Ivan Clark,Marketing,manager,07/03/2022,92627,23,95,100,female,1
-1266,Julia Taylor,Operations,executive,09/22/2021,100307,18,77,100,male,2
-1267,Charlie Lee,Finance,associate,07/01/2015,106906,91,62,82,male,9
-1268,Charlie Lee,Sales,associate,07/06/2023,92319,68,28,67,male,10
-1269,Fiona Davis,Marketing,executive,10/11/2024,104873,53,90,34,male,2
-1270,Diana King,Marketing,associate,09/12/2017,75733,13,9,11,female,6
-1271,Alice Smith,Marketing,executive,04/04/2023,84373,93,11,1,female,8
-1272,Fiona Davis,Engineering,associate,02/26/2021,103319,17,82,19,female,4
-1273,Diana King,Sales,manager,12/04/2017,42769,21,83,84,male,7
-1274,Ivan Clark,HR,executive,12/13/2017,72735,54,45,2,male,9
-1275,Ivan Clark,Operations,manager,06/12/2023,96448,71,4,37,female,5
-1276,George Wilson,Engineering,executive,03/14/2018,88445,88,77,29,female,6
-1277,Fiona Davis,Marketing,manager,02/13/2022,49513,56,44,15,female,6
-1278,Fiona Davis,Customer Service,associate,08/29/2022,44878,56,33,86,female,8
-1279,Julia Taylor,Finance,manager,10/10/2022,71097,86,69,5,male,7
-1280,Julia Taylor,Finance,executive,02/18/2025,115904,67,64,30,female,2
-1281,George Wilson,Marketing,associate,10/01/2025,78657,42,68,98,female,10
-1282,Alice Smith,Engineering,executive,02/07/2017,61522,81,5,3,male,7
-1283,Diana King,Operations,associate,10/28/2016,71804,72,19,40,male,7
-1284,Charlie Lee,IT,executive,12/12/2025,84752,94,91,97,female,2
-1285,George Wilson,IT,associate,12/31/2016,74510,26,6,11,female,4
-1286,Ethan Brown,Engineering,associate,06/27/2015,39920,44,36,88,female,2
-1287,Ethan Brown,Sales,executive,10/17/2021,67175,41,34,44,male,9
-1288,Alice Smith,Customer Service,manager,11/16/2019,50627,29,73,34,male,7
-1289,Diana King,Operations,manager,09/28/2018,85448,27,89,10,female,10
-1290,Ivan Clark,Sales,associate,12/09/2025,114562,3,74,16,female,6
-1291,Bob Johnson,HR,manager,11/15/2022,98243,78,51,66,female,4
-1292,Hannah Moore,HR,associate,10/01/2023,53552,36,39,48,female,5
-1293,Diana King,Operations,associate,09/07/2016,112139,23,93,84,male,7
-1294,Ivan Clark,HR,executive,02/20/2025,95602,62,7,10,female,8
-1295,Alice Smith,IT,manager,09/20/2020,83884,39,91,76,male,2
-1296,Ethan Brown,HR,associate,03/18/2023,101204,23,41,97,female,9
-1297,Ivan Clark,Finance,associate,11/22/2023,105285,25,27,28,female,6
-1298,George Wilson,HR,manager,03/05/2018,54909,87,4,53,female,5
-1299,Ethan Brown,Finance,manager,12/28/2023,72102,42,90,6,female,3
-1300,Ivan Clark,Finance,executive,12/23/2015,75009,2,78,43,male,9
-1301,Bob Johnson,Engineering,manager,08/28/2016,96214,99,95,54,male,1
-1302,Bob Johnson,Sales,manager,01/12/2022,34400,68,34,49,female,9
-1303,Ivan Clark,Engineering,associate,08/09/2023,90789,7,38,40,female,6
-1304,Ethan Brown,Engineering,associate,02/02/2023,63764,21,65,4,male,4
-1305,Hannah Moore,IT,manager,03/23/2024,102865,44,12,57,male,8
-1306,Julia Taylor,Sales,executive,12/19/2021,110527,26,93,74,male,10
-1307,George Wilson,Customer Service,executive,10/25/2017,35316,15,80,17,female,5
-1308,Bob Johnson,HR,executive,01/01/2015,89501,4,66,72,male,1
-1309,Diana King,Sales,executive,05/23/2020,38794,68,8,68,female,4
-1310,Ivan Clark,Sales,executive,11/20/2019,101849,66,2,79,female,6
-1311,Bob Johnson,HR,executive,04/02/2022,36685,41,43,40,male,10
-1312,George Wilson,Customer Service,executive,01/12/2016,32522,4,33,84,male,7
-1313,Ethan Brown,Engineering,executive,05/04/2019,35366,95,12,80,male,9
-1314,Bob Johnson,HR,associate,08/19/2015,100098,99,1,43,female,3
-1315,Bob Johnson,Sales,executive,07/07/2018,108674,79,97,14,male,9
-1316,Ivan Clark,Customer Service,manager,10/08/2018,85861,36,76,16,male,8
-1317,Diana King,Sales,manager,04/16/2024,66448,38,82,35,female,7
-1318,Alice Smith,Operations,executive,04/07/2016,80549,86,94,94,female,4
-1319,Charlie Lee,IT,associate,11/08/2021,31055,75,51,75,female,2
-1320,Bob Johnson,Operations,associate,06/14/2017,61208,16,69,75,female,1
-1321,Charlie Lee,Engineering,associate,01/18/2016,39699,24,36,75,male,5
-1322,George Wilson,Customer Service,manager,07/16/2022,96011,10,13,83,male,10
-1323,Diana King,Engineering,executive,06/05/2017,81515,61,14,17,female,5
-1324,Charlie Lee,Operations,associate,06/05/2015,78181,33,75,13,female,6
-1325,Ivan Clark,Operations,executive,04/10/2022,114947,62,94,40,female,7
-1326,Julia Taylor,IT,executive,09/10/2016,48911,46,85,51,female,6
-1327,Hannah Moore,HR,executive,04/16/2022,40407,21,18,71,female,5
-1328,Fiona Davis,Customer Service,executive,06/05/2016,39563,93,8,73,female,8
-1329,Hannah Moore,Sales,manager,04/29/2018,91560,38,69,28,female,3
-1330,Bob Johnson,HR,executive,04/17/2015,116339,81,92,26,male,8
-1331,Alice Smith,Operations,associate,01/11/2021,91143,53,23,76,male,5
-1332,Julia Taylor,Marketing,manager,02/25/2015,60679,65,14,91,male,9
-1333,Julia Taylor,Engineering,associate,04/26/2018,82487,91,75,38,male,4
-1334,Alice Smith,Marketing,manager,07/16/2017,94586,66,30,85,female,2
-1335,Alice Smith,IT,executive,02/13/2024,61585,61,68,7,male,9
-1336,Ethan Brown,Finance,manager,07/08/2025,116859,35,40,58,male,1
-1337,George Wilson,Sales,associate,07/12/2019,119579,61,60,14,male,4
-1338,Hannah Moore,Sales,associate,10/10/2023,49569,31,64,15,male,6
-1339,Bob Johnson,Engineering,manager,09/16/2017,34598,38,31,41,male,2
-1340,Fiona Davis,IT,executive,06/24/2023,71590,98,97,90,male,8
-1341,Ethan Brown,Engineering,executive,03/26/2015,33579,18,93,1,male,6
-1342,Ethan Brown,Marketing,executive,02/07/2015,91350,11,51,22,male,3
-1343,Hannah Moore,Sales,manager,05/15/2017,35479,90,58,52,female,9
-1344,Diana King,Operations,executive,07/30/2025,78661,38,62,26,female,9
-1345,Julia Taylor,Operations,manager,02/14/2024,65391,9,96,91,female,9
-1346,Ethan Brown,Finance,manager,08/16/2022,85308,95,49,62,female,5
-1347,Ivan Clark,Sales,executive,09/28/2020,72776,49,55,61,male,5
-1348,Ivan Clark,Engineering,executive,01/24/2018,35806,47,29,95,male,6
-1349,Charlie Lee,Engineering,associate,12/09/2022,71752,68,2,88,female,9
-1350,Diana King,IT,associate,02/23/2022,90656,66,95,34,female,4
-1351,Hannah Moore,Customer Service,manager,03/11/2025,58714,72,93,79,male,5
-1352,Hannah Moore,Finance,associate,11/08/2020,95524,68,47,10,male,2
-1353,Hannah Moore,Engineering,manager,06/07/2020,58589,96,56,7,male,3
-1354,Julia Taylor,Customer Service,associate,02/23/2015,59049,86,44,49,male,3
-1355,Bob Johnson,Customer Service,executive,11/24/2016,62144,50,67,47,female,9
-1356,Hannah Moore,Sales,executive,10/14/2019,93377,98,40,27,female,5
-1357,Bob Johnson,Engineering,associate,11/19/2024,77134,7,50,49,female,3
-1358,Julia Taylor,IT,executive,06/18/2016,114897,54,64,85,female,3
-1359,Ethan Brown,Finance,executive,05/30/2018,64915,15,82,24,male,2
-1360,Ivan Clark,HR,manager,09/20/2023,86935,82,96,19,male,7
-1361,Bob Johnson,IT,manager,04/23/2021,94193,15,40,52,female,8
-1362,Diana King,Engineering,manager,03/17/2021,60857,65,78,14,female,4
-1363,Ivan Clark,Finance,associate,04/17/2025,55766,76,90,54,male,8
-1364,Charlie Lee,Finance,executive,04/30/2019,105668,76,3,46,female,2
-1365,Alice Smith,HR,manager,02/08/2019,90084,60,26,23,female,1
-1366,George Wilson,Engineering,manager,08/08/2016,83313,98,66,52,female,3
-1367,Julia Taylor,Finance,associate,09/20/2018,40837,59,67,18,male,3
-1368,Julia Taylor,Marketing,manager,06/09/2016,100383,29,91,50,female,9
-1369,George Wilson,Marketing,executive,10/22/2020,86023,30,52,84,female,6
-1370,Diana King,Marketing,associate,11/07/2021,98795,4,79,91,female,7
-1371,Charlie Lee,Operations,manager,10/27/2015,99457,95,68,35,female,4
-1372,Hannah Moore,IT,manager,11/14/2015,87211,98,25,17,female,1
-1373,Ivan Clark,Sales,executive,07/26/2020,116170,92,41,25,female,5
-1374,Alice Smith,Engineering,executive,01/27/2024,118955,51,1,30,male,3
-1375,George Wilson,HR,executive,06/22/2022,33999,29,91,99,female,4
-1376,Charlie Lee,Marketing,executive,12/22/2024,60720,11,88,6,female,7
-1377,Charlie Lee,IT,executive,01/20/2019,91195,48,13,87,female,6
-1378,Bob Johnson,IT,associate,04/25/2018,51302,20,24,77,female,7
-1379,Julia Taylor,Sales,manager,06/05/2018,97156,35,14,37,male,5
-1380,Hannah Moore,HR,associate,03/04/2022,96311,34,37,17,female,8
-1381,Ivan Clark,IT,executive,09/06/2016,46000,12,62,13,male,3
-1382,Ethan Brown,Operations,associate,08/14/2016,40021,70,16,56,male,6
-1383,Alice Smith,HR,executive,01/19/2017,81672,83,91,63,female,8
-1384,Ivan Clark,Sales,associate,03/20/2025,58366,4,24,22,male,10
-1385,Alice Smith,IT,manager,03/06/2021,54710,33,46,55,male,8
-1386,Bob Johnson,Finance,associate,02/14/2021,35317,59,90,4,male,7
-1387,Julia Taylor,Customer Service,executive,05/06/2023,119770,100,92,52,male,2
-1388,Ivan Clark,Finance,manager,02/22/2023,61810,31,40,92,male,7
-1389,Bob Johnson,Sales,manager,01/31/2020,71384,95,28,39,male,7
-1390,Diana King,Engineering,executive,09/11/2017,46944,21,60,68,male,4
-1391,Alice Smith,Sales,manager,08/12/2021,49613,77,71,71,male,2
-1392,Ethan Brown,HR,manager,03/03/2021,108858,77,26,71,male,10
-1393,Bob Johnson,Customer Service,manager,07/31/2016,106822,20,35,84,male,4
-1394,Hannah Moore,Marketing,associate,05/04/2021,112302,41,88,92,female,8
-1395,Julia Taylor,Sales,associate,05/11/2016,75958,89,63,79,female,2
-1396,Charlie Lee,IT,manager,01/20/2015,35452,44,85,50,female,9
-1397,Bob Johnson,Customer Service,associate,03/18/2015,103334,96,94,6,female,5
-1398,Charlie Lee,HR,executive,05/02/2018,40591,16,94,11,female,9
-1399,Diana King,Customer Service,manager,06/07/2015,41990,10,76,59,female,6
-1400,Julia Taylor,IT,associate,02/05/2016,88995,90,40,69,female,7
-1401,Diana King,Customer Service,manager,09/16/2019,85524,95,45,27,female,10
-1402,Julia Taylor,Customer Service,associate,06/06/2017,60822,61,25,4,female,2
-1403,Fiona Davis,Engineering,executive,01/08/2019,39655,74,85,100,female,7
-1404,George Wilson,Finance,manager,09/03/2025,55087,21,31,52,male,8
-1405,Alice Smith,Marketing,manager,08/23/2018,89313,74,67,81,female,2
-1406,Charlie Lee,Marketing,associate,03/19/2021,87830,1,7,10,female,9
-1407,Diana King,IT,executive,02/05/2025,81945,55,9,75,male,7
-1408,Diana King,Finance,manager,09/30/2021,113122,13,37,4,male,3
-1409,Alice Smith,HR,associate,08/31/2022,48313,34,18,38,male,1
-1410,Bob Johnson,Marketing,associate,08/30/2017,87374,93,86,52,male,6
-1411,Diana King,Engineering,executive,03/03/2024,98268,83,11,6,male,10
-1412,George Wilson,Engineering,associate,02/12/2015,96416,78,33,95,female,3
-1413,Bob Johnson,Operations,executive,11/01/2018,107485,18,88,11,male,1
-1414,Bob Johnson,IT,manager,01/07/2025,42805,70,8,93,female,6
-1415,Ivan Clark,IT,executive,02/23/2024,103109,44,39,74,male,6
-1416,Charlie Lee,Operations,associate,11/08/2025,115522,51,96,15,male,8
-1417,Ivan Clark,Customer Service,associate,08/08/2018,34364,34,36,22,male,4
-1418,Diana King,Customer Service,executive,03/25/2021,80901,91,96,41,female,8
-1419,Ivan Clark,Sales,associate,03/15/2015,50859,84,86,88,male,3
-1420,Alice Smith,Marketing,associate,12/02/2017,38495,40,60,78,male,2
-1421,Charlie Lee,IT,executive,01/04/2018,32166,84,98,91,male,3
-1422,Bob Johnson,Finance,manager,01/25/2024,80664,23,68,26,female,2
-1423,Hannah Moore,Operations,associate,10/26/2016,92516,40,58,49,female,5
-1424,Diana King,Sales,executive,07/01/2025,62637,14,17,1,female,4
-1425,Hannah Moore,Customer Service,associate,05/12/2020,115734,24,17,16,female,8
-1426,Fiona Davis,HR,manager,08/03/2016,89720,82,30,6,female,4
-1427,George Wilson,Sales,manager,11/03/2016,44464,59,68,36,female,3
-1428,Hannah Moore,Engineering,executive,12/05/2020,106170,22,97,78,male,3
-1429,Charlie Lee,Sales,associate,02/27/2023,108108,69,45,33,female,6
-1430,Alice Smith,IT,associate,09/27/2025,88851,88,14,54,male,5
-1431,Charlie Lee,Customer Service,manager,08/25/2022,98635,38,49,30,female,1
-1432,Charlie Lee,HR,manager,11/23/2022,43543,15,83,13,female,4
-1433,George Wilson,Operations,associate,05/08/2015,57398,19,28,37,male,7
-1434,Alice Smith,Finance,executive,09/02/2021,102404,57,8,24,male,4
-1435,Ethan Brown,Sales,manager,06/16/2023,47322,72,92,19,female,3
-1436,Alice Smith,IT,associate,05/08/2016,93967,34,96,79,male,8
-1437,Ivan Clark,Customer Service,associate,06/14/2018,76559,96,45,64,female,9
-1438,Ethan Brown,Operations,associate,10/01/2025,48501,54,15,98,male,7
-1439,George Wilson,HR,manager,03/01/2023,65546,20,17,92,male,7
-1440,Ivan Clark,IT,manager,07/15/2024,102250,38,1,10,female,1
-1441,George Wilson,Engineering,associate,02/02/2022,66907,85,95,60,female,9
-1442,Ethan Brown,Engineering,executive,06/25/2021,34591,67,57,90,female,7
-1443,Julia Taylor,Sales,manager,10/15/2017,66874,20,51,27,female,10
-1444,Diana King,Marketing,executive,11/03/2024,37542,94,42,8,female,5
-1445,Hannah Moore,Sales,executive,08/01/2024,113509,26,75,60,female,1
-1446,Bob Johnson,Customer Service,executive,02/25/2023,39097,96,16,95,male,6
-1447,Julia Taylor,Operations,executive,04/18/2021,82198,9,72,73,male,10
-1448,Diana King,Engineering,executive,04/09/2016,85499,13,53,87,female,3
-1449,Diana King,IT,associate,08/21/2024,105926,38,41,88,male,6
-1450,George Wilson,HR,executive,04/12/2019,103766,15,53,89,male,10
-1451,Ethan Brown,IT,manager,11/23/2024,74755,2,57,2,female,2
-1452,Julia Taylor,Marketing,manager,06/17/2017,83544,75,58,90,female,5
-1453,Hannah Moore,Operations,executive,07/25/2017,109845,18,10,66,female,6
-1454,Alice Smith,Sales,manager,05/31/2025,38204,55,38,21,male,1
-1455,George Wilson,Finance,manager,01/05/2024,65148,68,84,95,male,3
-1456,George Wilson,HR,associate,12/06/2018,104143,10,30,96,female,5
-1457,Ivan Clark,Engineering,manager,08/15/2020,35855,60,28,40,female,2
-1458,Charlie Lee,Finance,manager,07/22/2016,33088,24,41,41,male,5
-1459,Charlie Lee,Marketing,manager,05/22/2019,101656,98,38,26,male,3
-1460,Charlie Lee,Finance,associate,03/09/2015,90687,54,72,56,male,7
-1461,Diana King,Sales,manager,12/05/2019,35670,89,53,48,male,8
-1462,Ethan Brown,IT,manager,07/10/2022,42781,83,10,6,female,4
-1463,George Wilson,Operations,manager,05/31/2025,63248,66,94,57,female,8
-1464,Charlie Lee,Marketing,manager,05/17/2022,69736,29,15,64,female,2
-1465,Hannah Moore,Engineering,manager,10/21/2017,70527,75,58,64,male,4
-1466,George Wilson,Marketing,manager,12/04/2018,111219,31,59,53,female,10
-1467,Bob Johnson,IT,associate,11/03/2025,72193,35,76,29,male,5
-1468,Charlie Lee,Sales,executive,07/22/2025,42062,11,23,5,male,7
-1469,Ivan Clark,Marketing,associate,09/26/2020,34013,40,1,44,male,1
-1470,George Wilson,Finance,associate,08/21/2023,76460,76,22,44,male,4
-1471,Julia Taylor,Sales,associate,10/13/2015,35730,72,72,76,female,6
-1472,Ethan Brown,HR,associate,04/03/2021,83969,34,3,62,female,5
-1473,Diana King,Operations,manager,02/14/2017,111057,55,63,21,male,6
-1474,Alice Smith,HR,manager,09/02/2022,49755,57,27,25,male,5
-1475,Ivan Clark,Engineering,executive,12/25/2017,72934,25,33,58,male,5
-1476,Alice Smith,Marketing,executive,10/09/2021,67968,5,16,20,male,7
-1477,Charlie Lee,Engineering,manager,02/11/2017,49904,100,12,38,male,3
-1478,George Wilson,IT,manager,06/18/2017,90926,67,62,13,male,8
-1479,George Wilson,IT,manager,11/06/2021,92180,11,18,19,male,1
-1480,Diana King,Marketing,manager,08/26/2022,113464,14,37,98,female,4
-1481,Diana King,Customer Service,associate,03/14/2023,86506,6,40,55,female,1
-1482,Charlie Lee,Marketing,associate,05/11/2020,86963,95,38,88,female,5
-1483,Alice Smith,Engineering,executive,03/09/2018,109902,91,82,75,male,3
-1484,Bob Johnson,HR,executive,01/09/2025,99899,29,2,47,female,8
-1485,Charlie Lee,HR,manager,09/30/2021,116925,61,27,7,male,1
-1486,Ivan Clark,IT,associate,11/01/2017,116757,35,8,90,male,10
-1487,Hannah Moore,Marketing,associate,01/28/2022,36556,51,12,87,male,10
-1488,Diana King,HR,manager,10/31/2016,48568,100,11,79,female,1
-1489,Fiona Davis,Customer Service,associate,03/24/2018,65943,86,38,97,male,5
-1490,Charlie Lee,Finance,executive,10/13/2025,38362,93,37,89,female,2
-1491,Charlie Lee,Engineering,associate,09/05/2021,35081,32,81,89,male,6
-1492,Ivan Clark,Marketing,associate,11/13/2017,116378,17,69,30,female,10
-1493,Ivan Clark,Marketing,executive,11/01/2020,37189,24,19,73,male,1
-1494,Diana King,HR,manager,07/13/2021,99967,99,41,94,male,10
-1495,Bob Johnson,HR,associate,03/30/2018,109997,3,98,10,male,7
-1496,George Wilson,Finance,executive,10/20/2023,102208,1,69,97,female,5
-1497,George Wilson,Engineering,manager,04/17/2018,59784,30,93,42,female,5
-1498,Bob Johnson,Marketing,manager,12/01/2023,103068,54,55,20,female,4
-1499,Charlie Lee,Customer Service,associate,10/14/2015,74085,65,34,72,male,8
+EmployeeID,Name,Department,Role,HireDate,Salary,PerformanceRating,EngagementScore,Gender,TenureYears
+1000,Charlie Lee,IT,manager,2/19/2022,82566,58,52,female,9
+1001,Hannah Moore,Sales,executive,5/25/2023,68761,44,4,female,5
+1002,George Wilson,Operations,associate,7/27/2019,110542,2,26,male,2
+1003,Ivan Clark,Marketing,associate,5/30/2020,35584,34,67,male,9
+1004,Fiona Davis,HR,executive,9/9/2018,63542,35,57,female,2
+1005,George Wilson,HR,executive,1/9/2017,41913,25,56,female,3
+1006,Julia Taylor,Engineering,manager,7/3/2025,45146,36,19,female,4
+1007,Bob Johnson,Marketing,manager,11/24/2015,102118,5,80,female,4
+1008,Diana King,Marketing,executive,7/8/2025,75476,10,70,male,5
+1009,Charlie Lee,Marketing,executive,12/23/2025,100592,4,9,male,2
+1010,Alice Smith,Sales,associate,5/3/2020,44609,50,36,male,5
+1011,Charlie Lee,Marketing,associate,5/29/2025,100177,69,7,male,1
+1012,Ethan Brown,Customer Service,executive,2/4/2024,109886,64,90,male,8
+1013,Charlie Lee,Operations,associate,12/16/2024,82878,15,96,female,1
+1014,Hannah Moore,Customer Service,associate,3/28/2022,84084,20,31,female,9
+1015,Charlie Lee,Operations,manager,11/14/2021,59947,20,24,female,4
+1016,Fiona Davis,Sales,associate,2/5/2017,38354,67,29,female,4
+1017,Hannah Moore,Finance,manager,10/11/2020,76586,11,100,male,3
+1018,Hannah Moore,IT,executive,4/9/2016,68132,20,16,male,5
+1019,Hannah Moore,Marketing,associate,8/20/2019,69543,69,76,female,5
+1020,Alice Smith,Engineering,manager,7/14/2017,40893,32,37,female,6
+1021,Ivan Clark,Finance,manager,2/7/2019,34024,50,65,male,7
+1022,Julia Taylor,IT,manager,10/24/2020,108013,37,6,male,1
+1023,Julia Taylor,Operations,associate,6/12/2021,39968,57,29,female,9
+1024,Diana King,Marketing,executive,6/14/2021,112915,9,76,male,3
+1025,Ethan Brown,Customer Service,manager,3/1/2018,98720,30,65,female,8
+1026,Alice Smith,Marketing,associate,6/13/2019,99650,74,31,female,10
+1027,Ethan Brown,Marketing,executive,3/26/2019,53233,84,69,female,9
+1028,Alice Smith,Engineering,manager,5/19/2024,50699,85,8,female,9
+1029,George Wilson,Finance,manager,11/22/2019,36414,43,100,female,5
+1030,Fiona Davis,Sales,manager,10/29/2020,101101,54,70,male,8
+1031,Hannah Moore,Engineering,manager,10/18/2023,74909,96,20,female,9
+1032,Julia Taylor,IT,executive,5/24/2024,90090,36,82,male,10
+1033,Hannah Moore,Engineering,executive,11/17/2023,95772,61,59,female,8
+1034,Ethan Brown,Sales,associate,11/7/2021,34001,66,32,male,6
+1035,Diana King,Customer Service,associate,7/20/2024,77244,80,58,male,8
+1036,Charlie Lee,Finance,manager,6/6/2021,33851,13,1,female,7
+1037,Bob Johnson,Finance,executive,11/28/2024,33930,30,93,male,6
+1038,Fiona Davis,IT,associate,3/25/2015,43765,19,21,male,7
+1039,Julia Taylor,Engineering,manager,10/24/2023,115674,57,72,male,10
+1040,Ivan Clark,HR,associate,4/8/2020,69817,81,18,female,9
+1041,Hannah Moore,Finance,associate,6/21/2018,35253,1,52,female,7
+1042,Ethan Brown,Engineering,manager,9/18/2018,34744,76,48,male,3
+1043,Fiona Davis,Finance,manager,12/24/2019,42738,9,65,male,9
+1044,Diana King,Marketing,manager,5/7/2020,108456,8,41,female,1
+1045,Julia Taylor,Marketing,manager,5/15/2024,93299,17,8,female,2
+1046,Diana King,IT,executive,3/1/2025,46965,40,15,male,3
+1047,Bob Johnson,IT,associate,10/27/2015,86188,64,62,female,5
+1048,Bob Johnson,Customer Service,manager,3/9/2023,59015,76,92,female,5
+1049,Ethan Brown,Engineering,executive,11/13/2017,93261,87,55,male,10
+1050,Julia Taylor,Engineering,executive,5/14/2024,64105,18,81,male,3
+1051,Diana King,IT,executive,6/6/2025,101626,38,37,male,7
+1052,Hannah Moore,Sales,associate,12/5/2022,56202,27,56,male,1
+1053,Ethan Brown,Marketing,associate,8/27/2019,56112,90,81,female,1
+1054,Fiona Davis,Customer Service,executive,2/7/2016,48786,65,82,female,5
+1055,Julia Taylor,Marketing,associate,5/3/2016,47767,32,10,male,1
+1056,Diana King,Customer Service,executive,7/19/2018,117043,10,45,male,7
+1057,Ivan Clark,Customer Service,associate,2/5/2022,80548,54,87,male,8
+1058,Charlie Lee,Sales,manager,11/4/2019,116458,13,58,female,6
+1059,Diana King,Customer Service,associate,10/2/2023,81146,50,13,male,9
+1060,Charlie Lee,Marketing,manager,8/1/2020,106584,27,50,female,8
+1061,Ivan Clark,Operations,executive,9/4/2021,71177,90,30,male,10
+1062,Ethan Brown,HR,manager,11/4/2015,42118,97,64,male,7
+1063,Alice Smith,Operations,executive,10/16/2020,82579,67,17,female,3
+1064,Julia Taylor,IT,manager,6/13/2019,74877,20,41,male,7
+1065,Alice Smith,IT,executive,4/15/2024,81532,35,51,female,2
+1066,Fiona Davis,Finance,executive,11/1/2022,34074,42,60,female,1
+1067,Ivan Clark,Engineering,manager,3/28/2016,35984,58,49,male,10
+1068,Hannah Moore,Customer Service,executive,12/4/2022,95664,2,2,male,1
+1069,Hannah Moore,Finance,associate,12/15/2017,88130,54,82,male,8
+1070,Bob Johnson,Customer Service,executive,1/6/2021,79458,16,23,male,8
+1071,Hannah Moore,Customer Service,executive,5/21/2022,112436,57,83,female,7
+1072,Bob Johnson,IT,executive,11/24/2018,116614,4,14,female,2
+1073,Alice Smith,Customer Service,associate,6/15/2025,46476,77,100,male,5
+1074,Alice Smith,Marketing,executive,8/25/2025,69666,82,28,male,5
+1075,Ethan Brown,Customer Service,manager,11/25/2016,85349,93,3,female,6
+1076,Charlie Lee,Customer Service,associate,5/17/2025,116061,73,18,male,10
+1077,Julia Taylor,Marketing,associate,4/3/2022,112565,91,97,female,8
+1078,Ivan Clark,HR,manager,11/26/2022,71671,94,83,female,10
+1079,Charlie Lee,Operations,associate,11/21/2025,85092,97,46,male,2
+1080,Ethan Brown,HR,manager,11/13/2023,94552,69,48,male,10
+1081,Hannah Moore,Operations,manager,10/14/2015,100259,78,32,male,10
+1082,Julia Taylor,Marketing,manager,6/16/2024,94971,48,48,female,2
+1083,Charlie Lee,Finance,associate,6/22/2017,94279,79,50,female,10
+1084,Fiona Davis,Engineering,associate,12/20/2021,49262,92,73,female,8
+1085,Alice Smith,Marketing,associate,7/13/2021,101687,88,96,female,5
+1086,Hannah Moore,Sales,associate,11/25/2023,89451,25,71,female,7
+1087,Bob Johnson,Marketing,associate,9/27/2017,110705,3,83,female,8
+1088,Charlie Lee,IT,manager,5/9/2021,111040,76,50,male,9
+1089,Diana King,Customer Service,associate,2/8/2018,66277,12,39,male,1
+1090,Julia Taylor,Marketing,manager,2/11/2018,95326,65,97,female,3
+1091,Diana King,HR,manager,3/22/2020,115831,76,7,male,9
+1092,Ivan Clark,Finance,executive,2/13/2021,36682,62,3,female,6
+1093,Julia Taylor,Sales,executive,9/2/2018,111731,24,27,female,10
+1094,George Wilson,Engineering,associate,7/15/2016,68246,47,66,female,8
+1095,Fiona Davis,HR,executive,5/15/2021,113508,33,96,female,6
+1096,Julia Taylor,Sales,associate,8/28/2017,99526,82,67,male,2
+1097,Julia Taylor,HR,associate,9/26/2021,40707,8,26,female,8
+1098,Ethan Brown,HR,manager,4/10/2025,116841,51,95,female,2
+1099,George Wilson,HR,manager,11/18/2017,41284,21,63,male,3
+1100,Ethan Brown,IT,manager,12/22/2024,61057,16,96,male,5
+1101,George Wilson,Finance,manager,7/15/2018,34702,1,58,female,4
+1102,George Wilson,Sales,associate,3/1/2025,97279,80,58,female,5
+1103,George Wilson,HR,associate,8/25/2015,41311,99,6,male,10
+1104,Bob Johnson,Sales,manager,5/26/2025,45653,55,77,male,8
+1105,Fiona Davis,Customer Service,manager,8/31/2023,69456,88,7,female,3
+1106,George Wilson,Marketing,manager,7/4/2016,101143,83,20,male,7
+1107,Hannah Moore,Sales,manager,8/13/2023,91975,10,36,male,8
+1108,Alice Smith,Engineering,manager,5/8/2019,106274,59,48,female,2
+1109,Ethan Brown,Customer Service,executive,1/12/2024,61035,73,58,female,3
+1110,Alice Smith,Operations,manager,9/13/2016,94873,29,97,male,5
+1111,Julia Taylor,Finance,executive,10/24/2024,45046,22,28,female,6
+1112,Diana King,Marketing,associate,2/18/2018,65366,65,93,female,1
+1113,George Wilson,IT,executive,6/6/2016,49854,40,66,male,4
+1114,Hannah Moore,Marketing,manager,8/30/2025,81226,47,66,male,9
+1115,Hannah Moore,Engineering,manager,9/13/2024,52294,3,9,male,4
+1116,Bob Johnson,Operations,associate,2/2/2023,107815,74,36,female,9
+1117,Alice Smith,Finance,associate,11/1/2022,89133,86,5,male,4
+1118,Bob Johnson,Sales,executive,4/27/2019,31823,83,3,male,10
+1119,Ethan Brown,Operations,manager,4/28/2025,60093,11,3,male,2
+1120,Charlie Lee,Sales,executive,8/8/2019,31444,63,88,female,2
+1121,Fiona Davis,Engineering,associate,3/9/2024,34947,12,28,male,5
+1122,Hannah Moore,Sales,executive,8/12/2021,61861,26,65,male,6
+1123,Fiona Davis,Marketing,associate,7/26/2019,87580,38,75,male,5
+1124,Alice Smith,Operations,manager,9/22/2025,84122,69,37,female,8
+1125,George Wilson,Customer Service,executive,11/24/2019,85971,57,50,female,8
+1126,Alice Smith,Marketing,executive,1/31/2018,112329,99,32,female,8
+1127,Alice Smith,Customer Service,executive,11/26/2018,59246,94,65,male,10
+1128,Alice Smith,Finance,manager,2/16/2023,69394,29,14,female,9
+1129,Charlie Lee,Customer Service,manager,5/19/2020,33518,93,84,male,4
+1130,Diana King,IT,executive,6/8/2023,66464,36,19,male,1
+1131,Fiona Davis,IT,executive,1/3/2021,45398,92,10,male,9
+1132,Bob Johnson,Customer Service,executive,11/17/2017,55953,60,19,male,9
+1133,Julia Taylor,HR,associate,8/16/2025,116712,80,78,male,2
+1134,Diana King,Operations,manager,9/3/2021,55439,17,62,male,8
+1135,Ivan Clark,Customer Service,executive,6/15/2023,31047,14,100,female,7
+1136,Hannah Moore,Engineering,manager,9/21/2024,32070,72,13,female,4
+1137,George Wilson,Operations,associate,4/7/2021,74347,28,93,female,9
+1138,George Wilson,HR,manager,8/16/2016,88677,8,8,female,9
+1139,Julia Taylor,Operations,manager,5/23/2024,64361,59,14,male,6
+1140,Ivan Clark,Engineering,executive,6/21/2017,77291,71,83,female,5
+1141,Julia Taylor,Finance,associate,2/20/2019,64575,35,80,male,7
+1142,Alice Smith,Marketing,executive,7/6/2021,55295,15,63,female,7
+1143,Alice Smith,Sales,executive,5/22/2020,53003,88,80,female,3
+1144,George Wilson,Customer Service,executive,10/11/2021,63277,96,37,male,7
+1145,Julia Taylor,HR,manager,1/19/2025,88805,79,21,female,8
+1146,Ethan Brown,Customer Service,associate,3/17/2023,99742,44,40,female,4
+1147,Fiona Davis,IT,executive,1/12/2017,36981,47,55,female,5
+1148,Hannah Moore,Engineering,manager,10/8/2025,47764,57,28,female,9
+1149,Charlie Lee,Customer Service,executive,7/31/2023,98756,46,41,male,7
+1150,Hannah Moore,Operations,manager,4/13/2020,89384,14,33,male,1
+1151,Julia Taylor,Sales,manager,9/17/2020,100550,47,28,female,2
+1152,Hannah Moore,Operations,executive,7/21/2025,72772,70,84,male,7
+1153,Julia Taylor,IT,associate,4/24/2019,105226,29,63,female,2
+1154,Bob Johnson,Finance,manager,6/30/2016,48292,81,83,female,1
+1155,George Wilson,Customer Service,associate,8/16/2022,44233,85,70,female,2
+1156,Hannah Moore,Sales,executive,12/10/2020,36182,48,91,male,4
+1157,Bob Johnson,Marketing,associate,8/7/2020,92170,80,32,male,2
+1158,Hannah Moore,IT,associate,10/6/2022,108267,37,74,male,6
+1159,Julia Taylor,IT,associate,4/8/2016,46506,84,63,male,3
+1160,Ivan Clark,Marketing,associate,12/16/2017,42248,16,21,male,1
+1161,Ivan Clark,HR,associate,1/8/2021,86664,13,8,female,4
+1162,Julia Taylor,Operations,associate,4/10/2017,89222,85,84,male,2
+1163,Julia Taylor,Sales,associate,2/1/2018,115856,38,43,male,10
+1164,Julia Taylor,Operations,manager,7/6/2020,70399,44,9,female,6
+1165,Fiona Davis,Customer Service,associate,5/3/2021,112725,2,44,female,8
+1166,George Wilson,Finance,associate,7/16/2024,60790,6,10,male,3
+1167,Julia Taylor,Engineering,manager,10/20/2023,47969,33,54,male,6
+1168,Alice Smith,Customer Service,manager,5/21/2019,113742,93,70,male,1
+1169,Fiona Davis,IT,associate,1/17/2023,102502,90,65,female,10
+1170,George Wilson,Marketing,associate,7/18/2019,76413,16,58,female,5
+1171,George Wilson,Customer Service,executive,12/13/2021,33290,44,8,female,7
+1172,George Wilson,Engineering,associate,6/14/2023,35522,20,86,female,8
+1173,Ivan Clark,Customer Service,executive,1/27/2020,106050,66,100,male,3
+1174,Fiona Davis,Sales,manager,12/31/2018,49963,37,17,female,7
+1175,Charlie Lee,Finance,associate,9/25/2016,47398,51,81,male,5
+1176,Alice Smith,Finance,manager,8/3/2015,92500,40,54,female,10
+1177,Diana King,IT,manager,3/13/2021,77904,72,6,male,10
+1178,Bob Johnson,Engineering,manager,1/23/2024,75141,69,22,male,1
+1179,Julia Taylor,Finance,manager,6/21/2015,101308,5,73,female,9
+1180,Fiona Davis,Sales,associate,3/16/2019,86515,62,75,female,10
+1181,Charlie Lee,Marketing,executive,1/14/2019,78761,12,11,female,6
+1182,Diana King,Engineering,associate,12/12/2021,96322,72,1,male,6
+1183,Hannah Moore,Customer Service,executive,4/8/2015,56382,94,89,male,3
+1184,Ivan Clark,Engineering,associate,4/24/2015,42085,90,22,female,1
+1185,Julia Taylor,Engineering,associate,12/1/2022,116823,27,38,male,8
+1186,Ethan Brown,Customer Service,executive,11/3/2023,79809,8,74,female,8
+1187,Bob Johnson,Customer Service,manager,5/31/2024,41838,90,98,male,5
+1188,Ivan Clark,Marketing,executive,8/27/2015,115213,75,30,male,8
+1189,Hannah Moore,Marketing,manager,5/30/2021,92503,89,94,female,6
+1190,Hannah Moore,Sales,manager,10/30/2025,99144,82,38,female,5
+1191,George Wilson,Marketing,manager,3/26/2017,45788,33,31,male,2
+1192,Fiona Davis,IT,executive,6/28/2025,96655,35,49,female,3
+1193,Julia Taylor,Engineering,executive,8/3/2015,47509,17,6,female,1
+1194,Diana King,Engineering,manager,8/18/2015,50340,87,29,female,3
+1195,Hannah Moore,Operations,manager,5/16/2025,38968,53,15,male,9
+1196,George Wilson,HR,executive,5/30/2021,37415,85,8,male,7
+1197,George Wilson,Marketing,manager,8/28/2015,98125,5,72,male,9
+1198,Hannah Moore,IT,associate,7/11/2018,37526,56,53,male,8
+1199,Alice Smith,Sales,manager,6/5/2016,50704,25,9,female,3
+1200,Ivan Clark,Sales,executive,3/12/2022,82996,21,11,male,8
+1201,Fiona Davis,Sales,executive,1/28/2022,62123,92,28,male,6
+1202,Ivan Clark,Marketing,manager,8/3/2025,100175,74,80,female,9
+1203,Ivan Clark,Customer Service,executive,8/10/2025,57584,22,51,male,8
+1204,Ivan Clark,Marketing,executive,3/9/2019,72885,6,7,male,5
+1205,Ivan Clark,Operations,manager,11/2/2020,75550,44,82,female,5
+1206,George Wilson,Finance,manager,8/25/2023,44285,93,61,male,1
+1207,Julia Taylor,Sales,manager,11/27/2017,100424,76,77,male,4
+1208,Julia Taylor,Operations,associate,5/29/2015,75666,80,64,male,4
+1209,George Wilson,IT,executive,4/27/2024,46549,81,79,female,9
+1210,Ethan Brown,Sales,associate,8/28/2016,99468,20,100,female,9
+1211,Ethan Brown,IT,associate,7/21/2017,34148,32,13,male,8
+1212,Ethan Brown,Operations,executive,2/9/2016,84731,13,83,male,3
+1213,Hannah Moore,Marketing,manager,8/17/2023,58977,33,64,male,1
+1214,Hannah Moore,Engineering,associate,9/21/2022,113632,98,61,female,6
+1215,Diana King,Marketing,executive,10/18/2016,86178,89,2,male,9
+1216,Ethan Brown,Engineering,manager,5/27/2016,49707,15,70,male,5
+1217,George Wilson,Operations,executive,10/15/2022,111334,92,22,male,2
+1218,George Wilson,Marketing,manager,11/10/2018,60645,99,55,male,5
+1219,Charlie Lee,Sales,executive,9/14/2025,61344,86,9,male,1
+1220,Hannah Moore,Finance,associate,7/20/2020,63943,17,91,male,7
+1221,Alice Smith,Sales,executive,6/20/2025,30794,62,16,female,3
+1222,Alice Smith,Operations,executive,10/15/2016,58194,62,75,male,10
+1223,George Wilson,Engineering,associate,7/8/2019,85969,47,32,male,7
+1224,Hannah Moore,Engineering,executive,6/18/2018,110072,34,55,male,10
+1225,Bob Johnson,HR,associate,1/1/2024,65069,10,71,female,10
+1226,Alice Smith,Operations,associate,7/19/2024,30581,70,89,male,10
+1227,Alice Smith,Operations,associate,1/22/2023,102764,49,49,female,1
+1228,Bob Johnson,Customer Service,associate,12/15/2022,46517,52,68,male,6
+1229,Charlie Lee,Marketing,executive,2/16/2017,42614,65,16,female,6
+1230,Ethan Brown,Operations,manager,2/27/2017,74850,11,9,female,7
+1231,Julia Taylor,Engineering,manager,8/30/2023,79287,89,93,male,7
+1232,Ethan Brown,Sales,manager,8/26/2017,64617,59,26,female,1
+1233,Ivan Clark,IT,executive,10/6/2015,50149,86,50,female,4
+1234,Ivan Clark,Customer Service,associate,9/21/2019,71775,24,56,female,9
+1235,Ethan Brown,Sales,manager,7/2/2023,68435,44,93,male,7
+1236,Ethan Brown,Customer Service,executive,11/25/2017,102657,34,100,male,4
+1237,Ivan Clark,Engineering,executive,4/13/2019,116294,91,90,female,2
+1238,Ivan Clark,Customer Service,manager,3/15/2019,73808,56,8,male,9
+1239,Diana King,Sales,associate,8/17/2016,45082,89,73,male,3
+1240,Charlie Lee,HR,associate,1/21/2023,93299,74,26,female,1
+1241,Hannah Moore,Marketing,manager,3/11/2018,86625,38,34,female,8
+1242,Hannah Moore,HR,executive,11/7/2015,93021,99,100,male,9
+1243,George Wilson,Engineering,manager,9/3/2016,49509,16,8,female,9
+1244,Ethan Brown,Sales,associate,11/8/2021,50688,60,90,male,3
+1245,Ivan Clark,Customer Service,associate,11/25/2016,88987,100,44,female,7
+1246,Diana King,Finance,associate,1/5/2016,111269,85,14,female,3
+1247,Bob Johnson,Operations,manager,10/4/2019,64463,3,77,male,2
+1248,George Wilson,Marketing,executive,12/15/2018,32538,5,94,female,6
+1249,Diana King,IT,associate,1/23/2025,106952,14,39,female,10
+1250,George Wilson,Marketing,manager,6/18/2020,95844,9,31,male,2
+1251,Alice Smith,Sales,associate,5/20/2021,88738,69,46,female,8
+1252,Alice Smith,HR,manager,6/5/2024,77085,93,88,female,10
+1253,Ivan Clark,Engineering,associate,7/3/2019,33509,9,40,male,4
+1254,Charlie Lee,HR,manager,10/30/2018,72380,100,59,male,8
+1255,Bob Johnson,Marketing,executive,9/9/2024,68056,74,73,male,9
+1256,George Wilson,Engineering,associate,7/6/2016,105978,10,95,male,6
+1257,George Wilson,Sales,associate,11/5/2025,69560,26,13,male,6
+1258,Diana King,Finance,manager,4/23/2017,69831,3,82,male,8
+1259,Fiona Davis,Sales,associate,8/29/2018,63131,15,78,female,4
+1260,Alice Smith,Finance,manager,7/24/2018,116215,75,59,male,9
+1261,Ivan Clark,Sales,executive,4/23/2024,93751,52,34,male,9
+1262,Ivan Clark,HR,manager,1/8/2025,55553,24,96,female,5
+1263,Fiona Davis,Operations,manager,10/5/2016,38143,91,53,male,6
+1264,Diana King,HR,executive,3/26/2015,41623,11,28,female,9
+1265,Ivan Clark,Marketing,manager,7/3/2022,92627,23,95,female,1
+1266,Julia Taylor,Operations,executive,9/22/2021,100307,18,77,male,2
+1267,Charlie Lee,Finance,associate,7/1/2015,106906,91,62,male,9
+1268,Charlie Lee,Sales,associate,7/6/2023,92319,68,28,male,10
+1269,Fiona Davis,Marketing,executive,10/11/2024,104873,53,90,male,2
+1270,Diana King,Marketing,associate,9/12/2017,75733,13,9,female,6
+1271,Alice Smith,Marketing,executive,4/4/2023,84373,93,11,female,8
+1272,Fiona Davis,Engineering,associate,2/26/2021,103319,17,82,female,4
+1273,Diana King,Sales,manager,12/4/2017,42769,21,83,male,7
+1274,Ivan Clark,HR,executive,12/13/2017,72735,54,45,male,9
+1275,Ivan Clark,Operations,manager,6/12/2023,96448,71,4,female,5
+1276,George Wilson,Engineering,executive,3/14/2018,88445,88,77,female,6
+1277,Fiona Davis,Marketing,manager,2/13/2022,49513,56,44,female,6
+1278,Fiona Davis,Customer Service,associate,8/29/2022,44878,56,33,female,8
+1279,Julia Taylor,Finance,manager,10/10/2022,71097,86,69,male,7
+1280,Julia Taylor,Finance,executive,2/18/2025,115904,67,64,female,2
+1281,George Wilson,Marketing,associate,10/1/2025,78657,42,68,female,10
+1282,Alice Smith,Engineering,executive,2/7/2017,61522,81,5,male,7
+1283,Diana King,Operations,associate,10/28/2016,71804,72,19,male,7
+1284,Charlie Lee,IT,executive,12/12/2025,84752,94,91,female,2
+1285,George Wilson,IT,associate,12/31/2016,74510,26,6,female,4
+1286,Ethan Brown,Engineering,associate,6/27/2015,39920,44,36,female,2
+1287,Ethan Brown,Sales,executive,10/17/2021,67175,41,34,male,9
+1288,Alice Smith,Customer Service,manager,11/16/2019,50627,29,73,male,7
+1289,Diana King,Operations,manager,9/28/2018,85448,27,89,female,10
+1290,Ivan Clark,Sales,associate,12/9/2025,114562,3,74,female,6
+1291,Bob Johnson,HR,manager,11/15/2022,98243,78,51,female,4
+1292,Hannah Moore,HR,associate,10/1/2023,53552,36,39,female,5
+1293,Diana King,Operations,associate,9/7/2016,112139,23,93,male,7
+1294,Ivan Clark,HR,executive,2/20/2025,95602,62,7,female,8
+1295,Alice Smith,IT,manager,9/20/2020,83884,39,91,male,2
+1296,Ethan Brown,HR,associate,3/18/2023,101204,23,41,female,9
+1297,Ivan Clark,Finance,associate,11/22/2023,105285,25,27,female,6
+1298,George Wilson,HR,manager,3/5/2018,54909,87,4,female,5
+1299,Ethan Brown,Finance,manager,12/28/2023,72102,42,90,female,3
+1300,Ivan Clark,Finance,executive,12/23/2015,75009,2,78,male,9
+1301,Bob Johnson,Engineering,manager,8/28/2016,96214,99,95,male,1
+1302,Bob Johnson,Sales,manager,1/12/2022,34400,68,34,female,9
+1303,Ivan Clark,Engineering,associate,8/9/2023,90789,7,38,female,6
+1304,Ethan Brown,Engineering,associate,2/2/2023,63764,21,65,male,4
+1305,Hannah Moore,IT,manager,3/23/2024,102865,44,12,male,8
+1306,Julia Taylor,Sales,executive,12/19/2021,110527,26,93,male,10
+1307,George Wilson,Customer Service,executive,10/25/2017,35316,15,80,female,5
+1308,Bob Johnson,HR,executive,1/1/2015,89501,4,66,male,1
+1309,Diana King,Sales,executive,5/23/2020,38794,68,8,female,4
+1310,Ivan Clark,Sales,executive,11/20/2019,101849,66,2,female,6
+1311,Bob Johnson,HR,executive,4/2/2022,36685,41,43,male,10
+1312,George Wilson,Customer Service,executive,1/12/2016,32522,4,33,male,7
+1313,Ethan Brown,Engineering,executive,5/4/2019,35366,95,12,male,9
+1314,Bob Johnson,HR,associate,8/19/2015,100098,99,1,female,3
+1315,Bob Johnson,Sales,executive,7/7/2018,108674,79,97,male,9
+1316,Ivan Clark,Customer Service,manager,10/8/2018,85861,36,76,male,8
+1317,Diana King,Sales,manager,4/16/2024,66448,38,82,female,7
+1318,Alice Smith,Operations,executive,4/7/2016,80549,86,94,female,4
+1319,Charlie Lee,IT,associate,11/8/2021,31055,75,51,female,2
+1320,Bob Johnson,Operations,associate,6/14/2017,61208,16,69,female,1
+1321,Charlie Lee,Engineering,associate,1/18/2016,39699,24,36,male,5
+1322,George Wilson,Customer Service,manager,7/16/2022,96011,10,13,male,10
+1323,Diana King,Engineering,executive,6/5/2017,81515,61,14,female,5
+1324,Charlie Lee,Operations,associate,6/5/2015,78181,33,75,female,6
+1325,Ivan Clark,Operations,executive,4/10/2022,114947,62,94,female,7
+1326,Julia Taylor,IT,executive,9/10/2016,48911,46,85,female,6
+1327,Hannah Moore,HR,executive,4/16/2022,40407,21,18,female,5
+1328,Fiona Davis,Customer Service,executive,6/5/2016,39563,93,8,female,8
+1329,Hannah Moore,Sales,manager,4/29/2018,91560,38,69,female,3
+1330,Bob Johnson,HR,executive,4/17/2015,116339,81,92,male,8
+1331,Alice Smith,Operations,associate,1/11/2021,91143,53,23,male,5
+1332,Julia Taylor,Marketing,manager,2/25/2015,60679,65,14,male,9
+1333,Julia Taylor,Engineering,associate,4/26/2018,82487,91,75,male,4
+1334,Alice Smith,Marketing,manager,7/16/2017,94586,66,30,female,2
+1335,Alice Smith,IT,executive,2/13/2024,61585,61,68,male,9
+1336,Ethan Brown,Finance,manager,7/8/2025,116859,35,40,male,1
+1337,George Wilson,Sales,associate,7/12/2019,119579,61,60,male,4
+1338,Hannah Moore,Sales,associate,10/10/2023,49569,31,64,male,6
+1339,Bob Johnson,Engineering,manager,9/16/2017,34598,38,31,male,2
+1340,Fiona Davis,IT,executive,6/24/2023,71590,98,97,male,8
+1341,Ethan Brown,Engineering,executive,3/26/2015,33579,18,93,male,6
+1342,Ethan Brown,Marketing,executive,2/7/2015,91350,11,51,male,3
+1343,Hannah Moore,Sales,manager,5/15/2017,35479,90,58,female,9
+1344,Diana King,Operations,executive,7/30/2025,78661,38,62,female,9
+1345,Julia Taylor,Operations,manager,2/14/2024,65391,9,96,female,9
+1346,Ethan Brown,Finance,manager,8/16/2022,85308,95,49,female,5
+1347,Ivan Clark,Sales,executive,9/28/2020,72776,49,55,male,5
+1348,Ivan Clark,Engineering,executive,1/24/2018,35806,47,29,male,6
+1349,Charlie Lee,Engineering,associate,12/9/2022,71752,68,2,female,9
+1350,Diana King,IT,associate,2/23/2022,90656,66,95,female,4
+1351,Hannah Moore,Customer Service,manager,3/11/2025,58714,72,93,male,5
+1352,Hannah Moore,Finance,associate,11/8/2020,95524,68,47,male,2
+1353,Hannah Moore,Engineering,manager,6/7/2020,58589,96,56,male,3
+1354,Julia Taylor,Customer Service,associate,2/23/2015,59049,86,44,male,3
+1355,Bob Johnson,Customer Service,executive,11/24/2016,62144,50,67,female,9
+1356,Hannah Moore,Sales,executive,10/14/2019,93377,98,40,female,5
+1357,Bob Johnson,Engineering,associate,11/19/2024,77134,7,50,female,3
+1358,Julia Taylor,IT,executive,6/18/2016,114897,54,64,female,3
+1359,Ethan Brown,Finance,executive,5/30/2018,64915,15,82,male,2
+1360,Ivan Clark,HR,manager,9/20/2023,86935,82,96,male,7
+1361,Bob Johnson,IT,manager,4/23/2021,94193,15,40,female,8
+1362,Diana King,Engineering,manager,3/17/2021,60857,65,78,female,4
+1363,Ivan Clark,Finance,associate,4/17/2025,55766,76,90,male,8
+1364,Charlie Lee,Finance,executive,4/30/2019,105668,76,3,female,2
+1365,Alice Smith,HR,manager,2/8/2019,90084,60,26,female,1
+1366,George Wilson,Engineering,manager,8/8/2016,83313,98,66,female,3
+1367,Julia Taylor,Finance,associate,9/20/2018,40837,59,67,male,3
+1368,Julia Taylor,Marketing,manager,6/9/2016,100383,29,91,female,9
+1369,George Wilson,Marketing,executive,10/22/2020,86023,30,52,female,6
+1370,Diana King,Marketing,associate,11/7/2021,98795,4,79,female,7
+1371,Charlie Lee,Operations,manager,10/27/2015,99457,95,68,female,4
+1372,Hannah Moore,IT,manager,11/14/2015,87211,98,25,female,1
+1373,Ivan Clark,Sales,executive,7/26/2020,116170,92,41,female,5
+1374,Alice Smith,Engineering,executive,1/27/2024,118955,51,1,male,3
+1375,George Wilson,HR,executive,6/22/2022,33999,29,91,female,4
+1376,Charlie Lee,Marketing,executive,12/22/2024,60720,11,88,female,7
+1377,Charlie Lee,IT,executive,1/20/2019,91195,48,13,female,6
+1378,Bob Johnson,IT,associate,4/25/2018,51302,20,24,female,7
+1379,Julia Taylor,Sales,manager,6/5/2018,97156,35,14,male,5
+1380,Hannah Moore,HR,associate,3/4/2022,96311,34,37,female,8
+1381,Ivan Clark,IT,executive,9/6/2016,46000,12,62,male,3
+1382,Ethan Brown,Operations,associate,8/14/2016,40021,70,16,male,6
+1383,Alice Smith,HR,executive,1/19/2017,81672,83,91,female,8
+1384,Ivan Clark,Sales,associate,3/20/2025,58366,4,24,male,10
+1385,Alice Smith,IT,manager,3/6/2021,54710,33,46,male,8
+1386,Bob Johnson,Finance,associate,2/14/2021,35317,59,90,male,7
+1387,Julia Taylor,Customer Service,executive,5/6/2023,119770,100,92,male,2
+1388,Ivan Clark,Finance,manager,2/22/2023,61810,31,40,male,7
+1389,Bob Johnson,Sales,manager,1/31/2020,71384,95,28,male,7
+1390,Diana King,Engineering,executive,9/11/2017,46944,21,60,male,4
+1391,Alice Smith,Sales,manager,8/12/2021,49613,77,71,male,2
+1392,Ethan Brown,HR,manager,3/3/2021,108858,77,26,male,10
+1393,Bob Johnson,Customer Service,manager,7/31/2016,106822,20,35,male,4
+1394,Hannah Moore,Marketing,associate,5/4/2021,112302,41,88,female,8
+1395,Julia Taylor,Sales,associate,5/11/2016,75958,89,63,female,2
+1396,Charlie Lee,IT,manager,1/20/2015,35452,44,85,female,9
+1397,Bob Johnson,Customer Service,associate,3/18/2015,103334,96,94,female,5
+1398,Charlie Lee,HR,executive,5/2/2018,40591,16,94,female,9
+1399,Diana King,Customer Service,manager,6/7/2015,41990,10,76,female,6
+1400,Julia Taylor,IT,associate,2/5/2016,88995,90,40,female,7
+1401,Diana King,Customer Service,manager,9/16/2019,85524,95,45,female,10
+1402,Julia Taylor,Customer Service,associate,6/6/2017,60822,61,25,female,2
+1403,Fiona Davis,Engineering,executive,1/8/2019,39655,74,85,female,7
+1404,George Wilson,Finance,manager,9/3/2025,55087,21,31,male,8
+1405,Alice Smith,Marketing,manager,8/23/2018,89313,74,67,female,2
+1406,Charlie Lee,Marketing,associate,3/19/2021,87830,1,7,female,9
+1407,Diana King,IT,executive,2/5/2025,81945,55,9,male,7
+1408,Diana King,Finance,manager,9/30/2021,113122,13,37,male,3
+1409,Alice Smith,HR,associate,8/31/2022,48313,34,18,male,1
+1410,Bob Johnson,Marketing,associate,8/30/2017,87374,93,86,male,6
+1411,Diana King,Engineering,executive,3/3/2024,98268,83,11,male,10
+1412,George Wilson,Engineering,associate,2/12/2015,96416,78,33,female,3
+1413,Bob Johnson,Operations,executive,11/1/2018,107485,18,88,male,1
+1414,Bob Johnson,IT,manager,1/7/2025,42805,70,8,female,6
+1415,Ivan Clark,IT,executive,2/23/2024,103109,44,39,male,6
+1416,Charlie Lee,Operations,associate,11/8/2025,115522,51,96,male,8
+1417,Ivan Clark,Customer Service,associate,8/8/2018,34364,34,36,male,4
+1418,Diana King,Customer Service,executive,3/25/2021,80901,91,96,female,8
+1419,Ivan Clark,Sales,associate,3/15/2015,50859,84,86,male,3
+1420,Alice Smith,Marketing,associate,12/2/2017,38495,40,60,male,2
+1421,Charlie Lee,IT,executive,1/4/2018,32166,84,98,male,3
+1422,Bob Johnson,Finance,manager,1/25/2024,80664,23,68,female,2
+1423,Hannah Moore,Operations,associate,10/26/2016,92516,40,58,female,5
+1424,Diana King,Sales,executive,7/1/2025,62637,14,17,female,4
+1425,Hannah Moore,Customer Service,associate,5/12/2020,115734,24,17,female,8
+1426,Fiona Davis,HR,manager,8/3/2016,89720,82,30,female,4
+1427,George Wilson,Sales,manager,11/3/2016,44464,59,68,female,3
+1428,Hannah Moore,Engineering,executive,12/5/2020,106170,22,97,male,3
+1429,Charlie Lee,Sales,associate,2/27/2023,108108,69,45,female,6
+1430,Alice Smith,IT,associate,9/27/2025,88851,88,14,male,5
+1431,Charlie Lee,Customer Service,manager,8/25/2022,98635,38,49,female,1
+1432,Charlie Lee,HR,manager,11/23/2022,43543,15,83,female,4
+1433,George Wilson,Operations,associate,5/8/2015,57398,19,28,male,7
+1434,Alice Smith,Finance,executive,9/2/2021,102404,57,8,male,4
+1435,Ethan Brown,Sales,manager,6/16/2023,47322,72,92,female,3
+1436,Alice Smith,IT,associate,5/8/2016,93967,34,96,male,8
+1437,Ivan Clark,Customer Service,associate,6/14/2018,76559,96,45,female,9
+1438,Ethan Brown,Operations,associate,10/1/2025,48501,54,15,male,7
+1439,George Wilson,HR,manager,3/1/2023,65546,20,17,male,7
+1440,Ivan Clark,IT,manager,7/15/2024,102250,38,1,female,1
+1441,George Wilson,Engineering,associate,2/2/2022,66907,85,95,female,9
+1442,Ethan Brown,Engineering,executive,6/25/2021,34591,67,57,female,7
+1443,Julia Taylor,Sales,manager,10/15/2017,66874,20,51,female,10
+1444,Diana King,Marketing,executive,11/3/2024,37542,94,42,female,5
+1445,Hannah Moore,Sales,executive,8/1/2024,113509,26,75,female,1
+1446,Bob Johnson,Customer Service,executive,2/25/2023,39097,96,16,male,6
+1447,Julia Taylor,Operations,executive,4/18/2021,82198,9,72,male,10
+1448,Diana King,Engineering,executive,4/9/2016,85499,13,53,female,3
+1449,Diana King,IT,associate,8/21/2024,105926,38,41,male,6
+1450,George Wilson,HR,executive,4/12/2019,103766,15,53,male,10
+1451,Ethan Brown,IT,manager,11/23/2024,74755,2,57,female,2
+1452,Julia Taylor,Marketing,manager,6/17/2017,83544,75,58,female,5
+1453,Hannah Moore,Operations,executive,7/25/2017,109845,18,10,female,6
+1454,Alice Smith,Sales,manager,5/31/2025,38204,55,38,male,1
+1455,George Wilson,Finance,manager,1/5/2024,65148,68,84,male,3
+1456,George Wilson,HR,associate,12/6/2018,104143,10,30,female,5
+1457,Ivan Clark,Engineering,manager,8/15/2020,35855,60,28,female,2
+1458,Charlie Lee,Finance,manager,7/22/2016,33088,24,41,male,5
+1459,Charlie Lee,Marketing,manager,5/22/2019,101656,98,38,male,3
+1460,Charlie Lee,Finance,associate,3/9/2015,90687,54,72,male,7
+1461,Diana King,Sales,manager,12/5/2019,35670,89,53,male,8
+1462,Ethan Brown,IT,manager,7/10/2022,42781,83,10,female,4
+1463,George Wilson,Operations,manager,5/31/2025,63248,66,94,female,8
+1464,Charlie Lee,Marketing,manager,5/17/2022,69736,29,15,female,2
+1465,Hannah Moore,Engineering,manager,10/21/2017,70527,75,58,male,4
+1466,George Wilson,Marketing,manager,12/4/2018,111219,31,59,female,10
+1467,Bob Johnson,IT,associate,11/3/2025,72193,35,76,male,5
+1468,Charlie Lee,Sales,executive,7/22/2025,42062,11,23,male,7
+1469,Ivan Clark,Marketing,associate,9/26/2020,34013,40,1,male,1
+1470,George Wilson,Finance,associate,8/21/2023,76460,76,22,male,4
+1471,Julia Taylor,Sales,associate,10/13/2015,35730,72,72,female,6
+1472,Ethan Brown,HR,associate,4/3/2021,83969,34,3,female,5
+1473,Diana King,Operations,manager,2/14/2017,111057,55,63,male,6
+1474,Alice Smith,HR,manager,9/2/2022,49755,57,27,male,5
+1475,Ivan Clark,Engineering,executive,12/25/2017,72934,25,33,male,5
+1476,Alice Smith,Marketing,executive,10/9/2021,67968,5,16,male,7
+1477,Charlie Lee,Engineering,manager,2/11/2017,49904,100,12,male,3
+1478,George Wilson,IT,manager,6/18/2017,90926,67,62,male,8
+1479,George Wilson,IT,manager,11/6/2021,92180,11,18,male,1
+1480,Diana King,Marketing,manager,8/26/2022,113464,14,37,female,4
+1481,Diana King,Customer Service,associate,3/14/2023,86506,6,40,female,1
+1482,Charlie Lee,Marketing,associate,5/11/2020,86963,95,38,female,5
+1483,Alice Smith,Engineering,executive,3/9/2018,109902,91,82,male,3
+1484,Bob Johnson,HR,executive,1/9/2025,99899,29,2,female,8
+1485,Charlie Lee,HR,manager,9/30/2021,116925,61,27,male,1
+1486,Ivan Clark,IT,associate,11/1/2017,116757,35,8,male,10
+1487,Hannah Moore,Marketing,associate,1/28/2022,36556,51,12,male,10
+1488,Diana King,HR,manager,10/31/2016,48568,100,11,female,1
+1489,Fiona Davis,Customer Service,associate,3/24/2018,65943,86,38,male,5
+1490,Charlie Lee,Finance,executive,10/13/2025,38362,93,37,female,2
+1491,Charlie Lee,Engineering,associate,9/5/2021,35081,32,81,male,6
+1492,Ivan Clark,Marketing,associate,11/13/2017,116378,17,69,female,10
+1493,Ivan Clark,Marketing,executive,11/1/2020,37189,24,19,male,1
+1494,Diana King,HR,manager,7/13/2021,99967,99,41,male,10
+1495,Bob Johnson,HR,associate,3/30/2018,109997,3,98,male,7
+1496,George Wilson,Finance,executive,10/20/2023,102208,1,69,female,5
+1497,George Wilson,Engineering,manager,4/17/2018,59784,30,93,female,5
+1498,Bob Johnson,Marketing,manager,12/1/2023,103068,54,55,female,4
+1499,Charlie Lee,Customer Service,associate,10/14/2015,74085,65,34,male,8
